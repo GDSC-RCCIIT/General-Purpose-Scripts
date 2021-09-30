@@ -3,6 +3,9 @@ name: Bug report
 about: Create a report to help us improve
 ---
 
+### Mention the script affected by the bug
+Name of the affected script
+
 
 ### Describe the bug
 A clear and concise description of what the bug is.
