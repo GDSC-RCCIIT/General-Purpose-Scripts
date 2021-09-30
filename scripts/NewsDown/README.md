@@ -36,7 +36,8 @@ Now you can download newspaper in one click.
 ![image](screenshot/sample.jpg)
 
 ## Sample Pdf
-[The Telegraph Newspaper](https://drive.google.com/file/d/1mg5IfRKXx4tARzHDBcyIQmfIOAHIVUp5/view?usp=sharing)
+[The Telegraph Newspaper](https://drive.google.com/file/d/1mg5IfRKXx4tARzHDBcyIQmfIOAHIVUp5/view?usp=sharing)  
+
 [Anandabazaar Newspaper](https://drive.google.com/file/d/1X8frclEovqGv6myiSnu0ywHWMXy23-Sz/view?usp=sharing)
 
 ## Credit
