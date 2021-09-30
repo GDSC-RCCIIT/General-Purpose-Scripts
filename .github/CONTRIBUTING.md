@@ -60,11 +60,11 @@ Step 11: Finally push your changes to your forked repository using `gi
 
 ## Making your first Pull Request
 
-Once you have finished working on an issue and have pushed the changes to your forked repository, it is time to make your first pull request.Go to your forked repository on GitHub and it should show you an option to `Compare & Pull Request`. Click the `Compare & Pull Request` button and it will take you directly initiate a Pull Request for you, follow the Pull Request template and fill out the necessary information.Once, that is done click the `Create Pull Request` button. 
+Once you have finished working on an issue and have pushed the changes to your forked repository, it is time to make your first pull request. Go to your forked repository on GitHub and it should show you an option to `Compare & pull request`. Click the `Compare & pull request` button and it will directly initiate a Pull Request for you, follow the Pull Request template and fill out the necessary information. Once that is done, click the `Create Pull Request` button.
 
 Congratulations! you just created your first Pull Request. Now all you have to do is wait for the maintainers to review your Pull Request before it can be merged.
 
 
 ## Creating an Issue
 
-In case of a bug report, feature request or a script request, you are free to open up an Issue for the maintainers and contributors.Go to Issues tab and hit the `New issue` button. Follow the Issue template and fill up the required information, once that is done press the `Submit new issue` button. Our maintainers will look into your issue and have it sorted as soon as possible.
+In case of a bug report, feature request or a script request, you are free to open up an Issue for the maintainers and contributors. Go to the Issues tab and hit the `New Issue` button. Follow the Issue template and fill up the required information, once that is done press the `Submit new issue` button. Our maintainers will look into your issue and have it sorted as soon as possible once you have it submitted.
