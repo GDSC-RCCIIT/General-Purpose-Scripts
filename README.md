@@ -1,4 +1,6 @@
 ## Introduction
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 This repository holds a curated list of Python scripts which aim to help us automate daily and common tasks. You can pick up any of these scripts on demand to help you with the automation of your common routine tasks.
 
 
