@@ -31,5 +31,10 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 
+## Do you want to work on this?
+- [ ] yes
+- [ ] no
+
+
 ### Additional context
 Add any other context about the problem here. If not applicable remove this section.
