@@ -1,3 +1,13 @@
+---
+name: Script Request
+about: Describe the script you would like to add
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+
 ## Suggest a new script for the project
 
 
