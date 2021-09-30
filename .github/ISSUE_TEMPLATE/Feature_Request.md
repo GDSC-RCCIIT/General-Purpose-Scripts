@@ -1,3 +1,13 @@
+---
+name: Feature request
+about: Suggest an improvement for a script
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+
 ## Suggest an improvement for a script
 
 
