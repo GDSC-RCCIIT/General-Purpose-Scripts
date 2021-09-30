@@ -2,10 +2,10 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bikram Purkait's DEV Profile" height="30" width="30">
 </a>
 
- # ***NewsDown***   
+ # NewsDown 
 
  ## About   
- ***NewsDown*** is a Newspaper Downloader. It is built in Python using tkinter and it scrape the official newspaper site and download newspaper.     
+ **NewsDown** is a Newspaper Downloader. It is built in Python using tkinter and it scrape the official newspaper site and download newspaper.     
 
 ## Features   
 Currently you can download Anandabazaar and Telegraph. Adding new newspaper for download feature is highly appreciable.
@@ -13,7 +13,7 @@ Currently you can download Anandabazaar and Telegraph. Adding new newspaper for 
 ## Install the Dependencies
 
 To use this first you need to make sure, Python3 is installed in your system.
-To install Python 3 in your system you may checkout Python's official downloads [page](https://www.python.org/downloads/).
+To install Python3 in your system you may checkout Python's official downloads [page](https://www.python.org/downloads/).
 
 ## How to Run
 
