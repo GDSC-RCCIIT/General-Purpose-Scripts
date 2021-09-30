@@ -67,4 +67,4 @@ Congratulations! you just created your first Pull Request. Now all you ha
 
 ## Creating an Issue
 
-In case of a bug report, feature request or a script request, you are free to open up an Issue for the maintainers and contributors. Go to the Issues tab and hit the `New Issue` button. Follow the Issue template and fill up the required information, once that is done press the `Submit new issue` button. Our maintainers will look into your issue and have it sorted as soon as possible once you have it submitted.
+In case of a bug report, feature request or a script request, you are free to open up an Issue for the maintainers and contributors. Go to the Issues tab and hit the `New Issue` button. Follow the Issue template corresponding to the type of your issue and fill up the required information. Once that is done press the `Submit new issue` button. Our maintainers will look into your issue and have it sorted as soon as possible once you have it submitted.
