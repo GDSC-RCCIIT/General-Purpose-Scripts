@@ -8,7 +8,7 @@
  **NewsDown** is a Newspaper Downloader. It is built in Python using tkinter and it scrape the official newspaper site and download newspaper.     
 
 ## Features   
-Currently you can download Anandabazaar and Telegraph. Adding new newspaper for download feature is highly appreciable.
+Currently you can download Anandabazaar and Telegraph Newspaper. Adding new newspaper for download  is highly appreciable.
 
 ## Install the Dependencies
 
@@ -34,6 +34,10 @@ Now you can download newspaper in one click.
 
 ## Screenshot
 ![image](screenshot/sample.jpg)
+
+## Sample Pdf
+![The Telegraph Newspaper](https://drive.google.com/file/d/1mg5IfRKXx4tARzHDBcyIQmfIOAHIVUp5/view?usp=sharing)
+![Anandabazaar Newspaper](https://drive.google.com/file/d/1X8frclEovqGv6myiSnu0ywHWMXy23-Sz/view?usp=sharing)
 
 ## Credit
 Project name suggest by [Souhit Dey](https://github.com/OBITORASU)
