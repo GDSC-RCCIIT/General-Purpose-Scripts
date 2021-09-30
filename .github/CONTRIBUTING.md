@@ -7,7 +7,7 @@ This document will give you a detailed overview over how to contribut
 
 ## New contributor guide
 
-See the [README](README.md) to get an overview of the project.Here are some helpful resources to get you comfortable with open source contribution:
+See the [README](README.md) to get an overview of the project and find other necessary information. Here are some great resources to get you comfortable with open source contributions:
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
 - [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
