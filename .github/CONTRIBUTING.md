@@ -2,7 +2,7 @@
 
 Thank you for showing interest in our project. Any contribution you make means a lot to us and will be reflected in the contributors tab on our repostiroy.
 
-This document will give you a detailed overview over how to contribute to our project and have your Pull Request accepted. Please,make sure you have read through this documentation and followed the correct steps before making your first Pull Request in our repository.If you fail to follow the steps mentioned in this document, it might lead to your Pull Request being declined.
+This document will give you a detailed overview over how to contribute to our project and have your Pull Request accepted. Please,make sure you have read through thisdocumentation and followed the correct steps before making your first Pull Request in our repository. If you fail to follow the steps mentioned here, it might lead to your Pull Request being declined.
 
 
 ## New contributor guide
