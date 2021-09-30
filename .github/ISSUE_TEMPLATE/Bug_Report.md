@@ -1,7 +1,5 @@
----
-name: Bug report
-about: Create a report to help us improve our scripts
----
+## Create a report to help us improve our scripts
+
 
 ### Mention the script affected by the bug
 Name of the affected script
