@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 ---
 
 ### Mention the Script where you would like to have this feature added
-Script name
+Name of the script.
 
 ### Is your feature request related to a problem? Please describe
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
