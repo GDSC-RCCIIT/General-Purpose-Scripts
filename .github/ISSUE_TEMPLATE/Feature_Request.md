@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an improvement for a script
 ---
 
 ### Mention the Script where you would like to have this feature added
