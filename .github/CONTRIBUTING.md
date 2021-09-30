@@ -14,6 +14,11 @@ See the [README](README.md) to get an overview of the project and find ot
 - [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
 
+## Linter
+
+We use [black](https://github.com/psf/black) as the autolinter for our project. Make sure you have `black` installed on your local system and have run the linter on your code successfully before making a Pull Request. Read below section to understand how to use `black` for formatting your code.
+
+
 ## Getting Started with Coding
 
 The first thing you need to do is find an issue to work on. Go to Issues and find a suitable issue which you think you can handle and are willing to work on. Make sure you ask the maintainers to have the issue assigned to you before you start working on it.
