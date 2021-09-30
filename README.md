@@ -23,9 +23,10 @@ Once you are done working on your script edit this `README.md` file and add the 
 
 
 ## Available Scripts in our Repository
-| Id Number | Script Name | Script Description                         | Link                                                                                                       |
-| --------- | ----------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| 2         | NewsDown    | It can download the newspaper in one click | [Find me Here](https://github.com/IamBikramPurkait/General-Purpose-Scripts/tree/newsdown/scripts/NewsDown) |
+| Id Number | Script Name | Script Description                                | Link                                                                                                       |
+| --------- | ----------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 1         | Shorty      | Shorty uses python code to shorten URLs on the go | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Shorty)            |
+| 2         | NewsDown    | It can download the newspaper in one click        | [Find me Here](https://github.com/IamBikramPurkait/General-Purpose-Scripts/tree/newsdown/scripts/NewsDown) |
 
 
 ----------------------

@@ -20,7 +20,7 @@ Please delete options that are not relevant.
 ## Screenshot (if applicable)
 <!-- Screenshot goes here -->
 
-# Checklist:
+## Checklist:
 
 - [ ] I have gone through the contributing guidelines before making this Pull Request.
 - [ ] My code follows the style guidelines of this project
