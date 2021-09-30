@@ -23,9 +23,9 @@ Once you are done working on your script edit this `README.md` file and add the 
 
 
 ## Available Scripts in our Repository
-|Id Number  | Script Name          | Script Description                                                             | Link    |
-|-----------|----------------------|--------------------------------------------------------------------------------|---------|
-|1          | Example              | Example Script is an example for you                                           | example link |
+| Id Number | Script Name | Script Description                         | Link                                                                                                   |
+| --------- | ----------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| 1         | NewsDown    | It can download the newspaper in one click | [NewsDown](https://github.com/IamBikramPurkait/General-Purpose-Scripts/tree/newsdown/scripts/NewsDown) |
 
 
 ----------------------
