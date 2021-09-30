@@ -55,7 +55,7 @@ Step 9: Add all of the changes you made to the staging area before�
 
 Step 10: Commit your changes with a meaningful commit message using `git commit -m "commit message"`
 
-Step 11: Finally push your changes to your forked repository using `git push -u origin <branch>`
+Step 11: Finally push your changes to your forked repository using `git push origin <branch>`
 
 
 ## Making your first Pull Request
