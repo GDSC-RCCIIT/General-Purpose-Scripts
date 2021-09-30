@@ -25,16 +25,16 @@ The first thing you need to do is find an issue to work on. Go to I
 
 Ok now that you have your issue assigned to you, it is time to start hacking!
 
-Step 1: Fork the repository
+**Step 1:** Fork the repository
 
-Step 2: Clone the forked repository to your local machine with `git clone <repository link>`
+**Step 2:** Clone the forked repository to your local machine with `git clone <repository link>`
 
-Step 3: Add a remote (upstream) to your fork using: 
+**Step 3:** Add a remote (upstream) to your fork using: 
 ```
 git remote add upstream https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git
 ```
 
-Step 4: Synchronize your fork with upstream using the following commands:
+**Step 4:** Synchronize your fork with upstream using the following commands:
 
 ```
 
@@ -48,19 +48,19 @@ $ git push origin main
 
 ```
 
-Step 5: Make a branch with a suitable name relevant to the issue you are working on using `git branch <branch>`
+**Step 5:** Make a branch with a suitable name relevant to the issue you are working on using `git branch <branch>`
 
-Step 6: Switch your working branch from master to the newly created branch with `git checkout <branch>`
+**Step 6:** Switch your working branch from master to the newly created branch with `git checkout <branch>`
 
-Step 7: Work on the changes. You can keep track of your branch and staging area using `git status`
+**Step 7:** Work on the changes. You can keep track of your branch and staging area using `git status`
 
-Step 8: Make sure you run the `black` autolinter before you add your changes to the staging area. `black` can be installed on your local system using `pip install black`, and can be run with `black .` on all the files in your current working directory.
+**Step 8:** Make sure you run the `black` autolinter before you add your changes to the staging area. `black` can be installed on your local system using `pip install black`, and can be run with `black .` on all the files in your current working directory.
 
-Step 9: Add all of the changes you made to the staging area before you commit with `git add .` 
+**Step 9:** Add all of the changes you made to the staging area before you commit with `git add .` 
 
-Step 10: Commit your changes with a meaningful commit message using `git commit -m "commit message"`
+**Step 10:** Commit your changes with a meaningful commit message using `git commit -m "commit message"`
 
-Step 11: Finally push your changes to your forked repository using `git push origin <branch>`
+**Step 11:** Finally push your changes to your forked repository using `git push origin <branch>`
 
 
 ## Making your first Pull Request
