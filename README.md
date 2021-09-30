@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository holds a curated list of Python scripts which aim to help us automate daily and common tasks. You can pick up any of these scripts on demand to help you with the automation of your common routine tasks. All the scripts in this repository are contained under the `scripts` directory and have been contributed by our generous contributors.
+This repository holds a curated list of Python scripts which aim to help us automate daily and common tasks. You can pick up any of these scripts on demand to help you with the automation of your common routine tasks. All the scripts in this repository can be found under the `scripts` directory and have been contributed by our generous contributors.
 
 
 ## How to contribute
