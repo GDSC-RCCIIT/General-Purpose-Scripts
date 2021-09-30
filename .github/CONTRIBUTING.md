@@ -16,7 +16,7 @@ See the [README](README.md) to get an overview of the project and find ot
 
 ## Linter
 
-We use [black](https://github.com/psf/black) as the autolinter for our project. Make sure you have `black` installed on your local system and have run the linter on your code successfully before making a Pull Request. Read below section to understand how to use `black` for formatting your code.
+We use [black](https://github.com/psf/black) as the autolinter for our project. Make sure you have `black` installed on your local system and have run the linter on your code successfully before making a Pull Request. Our workflow test verifies if your coding has proper linting as per the standards set by `black`, unless our linting workflow passes for your Pull Request, it will not be merged. Read the below section to understand how to use `black` for properly formatting your code.
 
 
 ## Getting Started with Coding
