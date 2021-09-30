@@ -1,8 +1,8 @@
 # General Purpose Scripts
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)](https://github.com/psf/black)
-![License](https://img.shields.io/github/license/GDSC-RCCIIT/General-Purpose-Scripts?color=blue&style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/GDSC-RCCIIT/General-Purpose-Scripts?color=darkgreen&style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/GDSC-RCCIIT/General-Purpose-Scripts?color=purple&style=for-the-badge)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=plasitc)](https://github.com/psf/black)
+![License](https://img.shields.io/github/license/GDSC-RCCIIT/General-Purpose-Scripts?color=blue&style=plasitc)
+![Contributors](https://img.shields.io/github/contributors/GDSC-RCCIIT/General-Purpose-Scripts?color=dark%20green&style=plasitc)
+![Forks](https://img.shields.io/github/forks/GDSC-RCCIIT/General-Purpose-Scripts?color=purple&style=plasitc)
 
 
 ## Introduction
