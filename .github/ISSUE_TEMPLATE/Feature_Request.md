@@ -1,7 +1,5 @@
----
-name: Feature request
-about: Suggest an improvement for a script
----
+## Suggest an improvement for a script
+
 
 ### Mention the Script where you would like to have this feature added
 Name of the script where you want the feature.
