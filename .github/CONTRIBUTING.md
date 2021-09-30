@@ -24,7 +24,8 @@ Step 1: Fork the repository
 
 Step 2: Clone the forked repository to your local machine with `git clone <repository link>`
 
-Step 3: Add a remote (upstream) to your fork using `git remote add upstream https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git`
+Step 3: Add a remote (upstream) to your fork using: 
+`git remote add upstream https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git`
 
 Step 4: Synchronize your fork with upstream using the following commands:
 
