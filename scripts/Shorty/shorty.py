@@ -6,6 +6,8 @@ short = "http://tinyurl.com/api-create.php?url=" + url
 final = requests.get(short)  # direct link is passed and shortened is returned here
 if final.text == "Error":
     print("The provided Link is Not valid! Retry")
+    sys.exit(1)
+
 else:
     # print (short)
     print("Shortened Link: " + final.text)
