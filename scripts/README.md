@@ -1,2 +1,2 @@
 ## Description
-This folder is where all the user scripts go, make a folder for your own script in here and link it in the main `README.md` file.
+This directory is where all the user scripts go. Make a sperate directory in here for your own script and link it in the main `README.md` file.
