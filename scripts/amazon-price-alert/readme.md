@@ -6,7 +6,7 @@
 
 ### About
 
-A Python3 script to automate the email sending process
+A Python script to alert if amazon product price below threshold
 
 ### Setup
 
