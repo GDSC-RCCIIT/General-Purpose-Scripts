@@ -12,7 +12,13 @@
 
 ---
 
-- Change the text in the script 
-- Just run the python file and it will a text file with the corrected information
+- Create a text file with the required english paragraph text which needs correction.
+- Provide the file location in the cmd line
+- Run the python file and it will generate a text file with the corrected information (output.txt).
+
+Use the following command to run it 
+>python "grammer bot.py" input.txt
+
+Here, input.txt is the input file to be provided by the user
 
 ---
