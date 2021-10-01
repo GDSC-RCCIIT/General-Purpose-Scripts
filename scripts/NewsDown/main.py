@@ -76,8 +76,7 @@ def select_date(name):
     finaltime = final_date + final_month + final_year
 
     global dt_stamp
-    dt_stamp = datetime.datetime(
-        int(final_year), int(final_month), int(final_date))
+    dt_stamp = datetime.datetime(int(final_year), int(final_month), int(final_date))
     dt_stamp = dt_stamp.strftime("%d %B, %Y")
 
     get_pageno(final_date, final_month, final_year, name)
@@ -86,8 +85,7 @@ def select_date(name):
 def select_location():
     global file_name
     global dwnlocbtn
-    file_name = filedialog.askdirectory(
-        initialdir="Desktop", title="Select Directory")
+    file_name = filedialog.askdirectory(initialdir="Desktop", title="Select Directory")
     dwnlocbtn.configure(text=f"{file_name}")
 
 
@@ -199,8 +197,7 @@ def mainNewscode():
     dwnlocbtn.pack(pady=20)
 
     # Add Download Button
-    dwnbtn = ttk.Button(bodyfrm, text="Download",
-                        command=get_paper, style="C.TButton")
+    dwnbtn = ttk.Button(bodyfrm, text="Download", command=get_paper, style="C.TButton")
     dwnbtn.pack(pady=20)
 
     # Create a status bar LabelFrame
