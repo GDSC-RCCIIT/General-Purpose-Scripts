@@ -55,8 +55,8 @@ class scrap:
             + """</b>"""
         )
         print(body)
-        dev_email = "Developer's Email Address"
-        dev_password = "Developer's Password"
+        dev_email = "User's Email Address"
+        dev_password = "User's Password"
         server = smtplib.SMTP("smtp.gmail.com", "587")
         server.ehlo()
         server.starttls()
