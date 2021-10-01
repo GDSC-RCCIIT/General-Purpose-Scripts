@@ -4,8 +4,8 @@ import smtplib
 to = input("Enter the Email of recipent:\n")
 content = input("Enter the Content for E-Mail:\n")
 
-sender_email = "youremail@mail.com"
-sender_password = "yourpassword"
+sender_email = input("Enter Your Email Address: ")
+sender_password = input("Enter Your Password: ")
 
 
 def sendEmail(to, content):
