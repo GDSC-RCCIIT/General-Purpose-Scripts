@@ -24,6 +24,8 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36'}
 
 # function to get the data in between tags
+
+
 def between(cur, end):
     while cur and cur != end:
         if isinstance(cur, NavigableString):
@@ -33,6 +35,8 @@ def between(cur, end):
         cur = cur.next_element
 
 # get_coins function to get the data from the website
+
+
 def get_coin():
     # store the data in a list
     allrows = []
@@ -88,6 +92,8 @@ def get_coin():
         csvwriter.writerows(allrows)
 
 # get_coin_data function to get the data of a coin from the website
+
+
 def get_coin_data(sym):
     # getting the data of a coin given in input
     with open("coins.csv", "r") as f:
@@ -164,7 +170,7 @@ def get_coin_data(sym):
     website_url = listlinks[0]
 
     headers1 = ['Symbol', 'Name', 'WatchlistCount', 'Website', 'Circulation %', 'Price', 'Value by market cap', 'Market Dominance', 'Rank', 'Market Cap', 'All time high date',
-               'All time high price', 'All time lowest date', 'All time lowest price', 'What is {}?'.format(name), 'Who are the founders of {}?'.format(name), 'What makes {} unique?'.format(name)]
+                'All time high price', 'All time lowest date', 'All time lowest price', 'What is {}?'.format(name), 'Who are the founders of {}?'.format(name), 'What makes {} unique?'.format(name)]
     res_arr = [symbol, name, watchlistcount, website_url, circulation_percentage, price, valuebymarketcap,
                market_dominance, rank, market_cap, ath_date, ath_price, atl_date, atl_price, whatiscoin, foundcoin, uniqueness]
 
@@ -173,6 +179,7 @@ def get_coin_data(sym):
         csvwriter = csv.writer(f)
         csvwriter.writerow(headers1)
         csvwriter.writerow(res_arr)
+
 
 # Calling the functions
 get_coin()
