@@ -55,7 +55,7 @@ class scrap:
             + """</b>"""
         )
         print(body)
-        dev_email = "Develope's Email Address"
+        dev_email = "Developer's Email Address"
         dev_password = "Developer's Password"
         server = smtplib.SMTP("smtp.gmail.com", "587")
         server.ehlo()
@@ -63,7 +63,7 @@ class scrap:
         server.login(dev_email, dev_password)
         server.sendmail(dev_email, self.email, body)
         server.close()
-        print("Email Successfully send\n")
+        print("Email Successfully sent\n")
 
 
 url = input("Enter Url of amazon webpage: ")
