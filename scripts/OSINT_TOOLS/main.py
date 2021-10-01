@@ -5,6 +5,7 @@ from phonenumbers import timezone
 from phonenumbers import geocoder
 from phonenumbers import carrier
 
+
 def ip_location(ip):
     # ip=input("enter=")
     r = requests.get(f"https://geolocation-db.com/json/{ip}&position=true")
@@ -18,6 +19,7 @@ def ip_location(ip):
     IPv4 -> {res['IPv4']}
     """
     print(data)
+
 
 def phone_num(number):
     ch_number = phonenumbers.parse(number, "CH")
@@ -33,6 +35,7 @@ def phone_num(number):
     time -> {timez}
     for more info visit {more_info}"""
     print(data)
+
 
 help = """
 1. IP lookup
