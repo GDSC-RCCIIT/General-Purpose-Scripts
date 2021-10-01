@@ -27,7 +27,13 @@ Once you are done working on your script edit this `README.md` file and add the 
 | --------- | ----------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 1         | Shorty      | Shorty uses python code to shorten URLs on the go | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Shorty)   |
 | 2         | NewsDown    | It can download the newspaper in one click        | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/NewsDown) |
-
-
+| 3         | QR Code Generator    | It can generate QR Code of URLs        | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR%20Code%20Generator) |
+| 4         | CryptoCurrency       | Fetches cryptocurrency data and stores them in a .csv file | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CryptoCurrency) |
+| 5         | Check-System-Usage   | Checks free space percentage and average CPU usage | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Check-System-Usage) |
+| 6         | Public IP Address       | Prints your public IP address | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/publicIP/scripts/Public%20IP%20Address)
+| 7         | CP Template Maker       | Organizes and creates templates for cp contests| [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CpTemplate)
+| 8         | Email Sender      | Automates Email Process | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Email-Sender)   |
+| 9         | File Oraganizer      | Organize your Files | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/File%20Organizer)   |
+| 10         | Notice Scrapper     | Extract all notices from rcciit.org | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/NoticeScrapper)   |
 ----------------------
 ### Good Luck and don't forget to have fun with Open Source 🚀
