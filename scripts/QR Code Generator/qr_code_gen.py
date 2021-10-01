@@ -5,19 +5,17 @@ from argparse import ArgumentParser
 import validators
 
 # Constructing an Argument Parser
-ap=ArgumentParser()
-ap.add_argument("-l","--link",
-                required=True,
-                help="Path to the image folder")
-args=vars(ap.parse_args())
+ap = ArgumentParser()
+ap.add_argument("-l", "--link", required=True, help="Path to the image folder")
+args = vars(ap.parse_args())
 
-if (validators.url(args["link"])):
+if validators.url(args["link"]):
     # Generating QR code
     url = pyqrcode.create(args["link"])
 
     # Creating svg and png files for the same in the same directory
-    url.svg("qr_code.svg", scale = 8)
-    url.png("qr_code.png", scale = 6)
+    url.svg("qr_code.svg", scale=8)
+    url.png("qr_code.png", scale=6)
     print("QR Code generated and saved.")
 
 else:
