@@ -8,9 +8,10 @@ from pathlib import Path
 tool = language_tool_python.LanguageToolPublicAPI("en-US")
 
 # get the input text file from the user
-parser = argparse.ArgumentParser()
-parser.add_argument("input_file_path", type=Path)
+parser = argparse.ArgumentParser(description="Grammar Checker Bot")
+parser.add_argument("-i", "--input_file_path", help="Input file name", required=True)
 p = parser.parse_args()
+
 
 # open the file provided and read it
 f = open(p.input_file_path, "r")
