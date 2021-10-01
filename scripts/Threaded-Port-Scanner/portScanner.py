@@ -29,7 +29,7 @@ def threader():
         que.task_done()
 
 
-# Createing the queue and threader
+# Creating the queue and threader
 que = Queue()
 
 for x in range(30):
