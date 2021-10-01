@@ -42,7 +42,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 15        | Currency Converter         | Convert currencies on realtime using a beautiful tkinter GUI                                             | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Currency-Converter)         |
 | 16        | SMS Sender         | Easy CLI interface for users looking to test their SMS campaign integration with Kaleyra                                             | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS-Sender)         |
 | 17        | Song-Lyrics-Fetcher        | Fetch lyrics of a song and store in a text file                                                          | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Song-Lyrics-Fetcher)        |
-
+| 18         | Threaded Port Scanner                     | Scanner that shows number of ports open                                                         | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Threaded-Port-Scanner)                     |
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
