@@ -7,8 +7,15 @@ import os
 
 # Constructing an Argument Parser
 ap = ArgumentParser()
-ap.add_argument("-l", "--link", required=True, help="Path to the image folder")
-ap.add_argument("-p", "--path", default=os.getcwd(), help="Path to the image folder")
+ap.add_argument(
+    "-l", "--link", required=True, help="Link that is to be generated into QR Code"
+)
+ap.add_argument(
+    "-p",
+    "--path",
+    default=os.getcwd(),
+    help="Path where the QR Code files are to be saved",
+)
 args = vars(ap.parse_args())
 
 if validators.url(args["link"]):
