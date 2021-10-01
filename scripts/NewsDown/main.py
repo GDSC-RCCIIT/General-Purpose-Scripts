@@ -1,8 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import img2pdf
-from tkinter import ttk, Tk, LabelFrame, Frame
-from tkinter import filedialog
+from tkinter import ttk, Tk, LabelFrame, Frame, filedialog
 from tkcalendar import DateEntry
 import datetime
 
