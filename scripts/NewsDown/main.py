@@ -1,11 +1,9 @@
 import requests
-import datetime
-import img2pdf
 from bs4 import BeautifulSoup
-from tkinter import ttk, filedialog
-from tkinter import *
+import img2pdf
+from tkinter import ttk, Tk, LabelFrame, Frame, filedialog
 from tkcalendar import DateEntry
-
+import datetime
 
 file_name = ""
 finaltime = ""
