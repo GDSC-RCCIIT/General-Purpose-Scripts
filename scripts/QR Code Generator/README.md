@@ -13,15 +13,19 @@
    ```
 4. Run the script to generate QR Code for your link
    ```
-   python3 qr_code_gen.py --link <link>
+   python3 qr_code_gen.py --link <link> --path <path/to/generated_file>
    ```
    Or,
    ```
-   python3 qr_code_gen.py -l <link>
+   python3 qr_code_gen.py -l <link> -p <path/to/generated_file>
    ```
-Replace <link> with the website URL.
+Replace `<link>` with the website URL.
+Replace `<path/to/generated_file>` with the path to the directory where you want to save the files.
 
 The QR Code (in .png and .svg) will be generated in the `QR Code Generator` directory.
 
-### Screenshots of the script
-![CLI screen grab](https://i.imgur.com/f7YKruQ.png)
+### Note
+The `-p` (`--path`) is optional. If not provided, the files will be saved in the `QR Code Generator` directory.
+
+### Screenshot
+![CLI screen grab](https://imgur.com/cKRFSsW.png)
