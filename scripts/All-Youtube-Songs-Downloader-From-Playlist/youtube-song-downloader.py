@@ -1,5 +1,5 @@
 # Importing libraries
- import bs4 as bs
+ import bs4
  import sys
  import urllib.request
  from PyQt5.QtWebEngineWidgets import QWebEnginePage
