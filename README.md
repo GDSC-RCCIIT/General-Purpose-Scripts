@@ -37,5 +37,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 10         | Notice Scrapper     | Extract all notices from rcciit.org | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/NoticeScrapper)   |
 | 11         | Vaccination Centre Locator   | Provides top 10 nearest Vaccination Centres data based on location in India | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Vaccination-Centre-Locator)   |
 | 12         | Meaning Finder   | Find Word's Meaning.. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Meaning%20Finder)   |
+| 13         | Amazon-Price-Alert      | Send a Email to the user when the price of product goes down below threshold | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/amazon-price-alert)   |
 ----------------------
 ### Good Luck and don't forget to have fun with Open Source 🚀
