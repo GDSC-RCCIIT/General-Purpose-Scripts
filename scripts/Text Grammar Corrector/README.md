@@ -23,7 +23,7 @@
 4) Run the python file and it will generate a text file with the corrected information (output.txt).
 
 Use the following command to run the script 
->python "grammer bot.py" input.txt
+>>python "grammer bot.py" --i input.txt
 
 Here, input.txt is the input file to be provided by the user
 
