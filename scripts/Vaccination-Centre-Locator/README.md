@@ -1,4 +1,4 @@
-## Vaccination Cerntre Locator
+## Vaccination Cerntre Locator based in India
 
 ![python](https://img.shields.io/badge/language-Python-orange?style=for-the-badge)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=plasitc)](https://github.com/psf/black)
