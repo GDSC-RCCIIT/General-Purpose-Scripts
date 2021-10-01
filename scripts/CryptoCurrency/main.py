@@ -16,7 +16,7 @@ options.add_argument("--disable-gpu")
 options.add_argument("--log-level=3")
 
 # initialize the webdriver
-driver = webdriver.Chrome(executable_path=r"D:\chromedriver.exe", options=options)
+driver = webdriver.Chrome(executable_path=r"your path", options=options)
 
 # headers for the webdriver
 headers = {
