@@ -33,5 +33,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 6         | Public IP Address       | Prints your public IP address | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/publicIP/scripts/Public%20IP%20Address)
 | 7         | CP Template Maker       | Organizes and creates templates for cp contests| [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CpTemplate)
 | 8         | Email Sender      | Automates Email Process | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Email-Sender)   |
+| 9         | File Oraganizer      | Organize your Files | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/File%20Organizer)   |
 ----------------------
 ### Good Luck and don't forget to have fun with Open Source 🚀
