@@ -1,9 +1,8 @@
-
 # Imports
 import language_tool_python
 
 # Initial API
-tool = language_tool_python.LanguageToolPublicAPI('en-US')
+tool = language_tool_python.LanguageToolPublicAPI("en-US")
 
 # initalizae filename
 FILENAME = "input.txt"
@@ -22,11 +21,11 @@ end_positions = []
 # parsing the rules
 for rules in matches:
     print("------------------------------")
-    print(rules,"/n")
-    if len(rules.replacements)>0:
+    print(rules, "/n")
+    if len(rules.replacements) > 0:
         start_positions.append(rules.offset)
-        end_positions.append(rules.errorLength+rules.offset)
-        my_mistakes.append(text[rules.offset:rules.errorLength+rules.offset])
+        end_positions.append(rules.errorLength + rules.offset)
+        my_mistakes.append(text[rules.offset : rules.errorLength + rules.offset])
         my_corrections.append(rules.replacements[0])
 
 my_new_text = list(text)
@@ -34,12 +33,12 @@ my_new_text = list(text)
 for m in range(len(start_positions)):
     for i in range(len(text)):
         my_new_text[start_positions[m]] = my_corrections[m]
-        if (i>start_positions[m] and i<end_positions[m]):
-            my_new_text[i]=""
+        if i > start_positions[m] and i < end_positions[m]:
+            my_new_text[i] = ""
 
 my_new_text = "".join(my_new_text)
 
-#save the text in a file
+# save the text in a file
 f = open("myfile.txt", "w")
 f = open("myfile.txt", "a")
 f.write(my_new_text)
