@@ -1,13 +1,8 @@
 import requests
-import json
 from bs4 import BeautifulSoup
-from PIL import Image
-import os
 import img2pdf
-from tkinter import ttk
-from tkinter import *
-from tkinter import filedialog
-from tkcalendar import Calendar, DateEntry
+from tkinter import ttk, Tk, LabelFrame, Frame, filedialog
+from tkcalendar import DateEntry
 import datetime
 
 
