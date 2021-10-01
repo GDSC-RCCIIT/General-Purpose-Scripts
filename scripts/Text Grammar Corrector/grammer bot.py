@@ -2,6 +2,7 @@
 import language_tool_python
 import argparse
 from pathlib import Path
+
 # ------------------------------------------------------
 # Initialize API
 tool = language_tool_python.LanguageToolPublicAPI("en-US")
@@ -26,8 +27,8 @@ end_positions = []
 
 # parsing the rules
 for rules in matches:
-    #print("------------------------------")
-    #print(rules, "/n")
+    # print("------------------------------")
+    # print(rules, "/n")
     if len(rules.replacements) > 0:
         start_positions.append(rules.offset)
         end_positions.append(rules.errorLength + rules.offset)
