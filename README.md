@@ -39,5 +39,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 12         | Meaning Finder   | Find Word's Meaning.. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Meaning%20Finder)   |
 | 13         | Amazon-Price-Alert      | Send a Email to the user when the price of product goes down below threshold | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/amazon-price-alert)   |
 | 14         | Email-Phone-Extractor      | Extracts email addresses and phone number from clipboard or a text file and stores them as separate csvs | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/email_phone_extractor)   |
+| 15         | SMS Sender      | Easy CLI interface for users looking to test their SMS campaign integration with Kaleyra | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS%20Sender)   |
 ----------------------
 ### Good Luck and don't forget to have fun with Open Source 🚀
