@@ -1,10 +1,6 @@
-###Get lyrics
-Using the script
+### Reddit Scraper 
 
-    Arguments
+Pretty straightforward to use, follow command line instructions.
 
-    python fetchLyrics.py --artist <artistName> --song <songName>
+Files are exported to same dir as that of cloned repo
 
-    Eg:
-
-    python fetchLyrics.py --artist "ksi" --song "No Time"
