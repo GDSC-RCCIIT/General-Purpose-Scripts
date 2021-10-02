@@ -4,5 +4,5 @@
 <br>
 
 <p align = "center">
-<kbd><img src="/scripts/Word Cloud Generator/Word Cloud.png"></kbd>
+<kbd><img src="/scripts/Word-Cloud-Generator/Word Cloud.png"></kbd>
 </p>
