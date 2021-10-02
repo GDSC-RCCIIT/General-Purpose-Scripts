@@ -47,7 +47,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 20        | Image Compressor        | Script compress Images |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image-compressor)  
 | 21        | JSON to xlsx converter        | Script to convert json to xlsx |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Json-xlsx)
 | 22        | Reddit Image Scrapper      | Downloads Reddit Images according to given SubReddit without using API                                   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Reddit-Image-Scrapper)      |
-| 23        | Video to GIF        | Script video_to_gif |             [Find me here](https://github.com/aniketartani/General-Purpose-Scripts/tree/main/scripts/video_to_gif)
+| 23        | Video to GIF        | Script video_to_gif |             [Find me here](https://github.com/aniketartani/General-Purpose-Scripts/tree/main/scripts/video_to_gif) |
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
