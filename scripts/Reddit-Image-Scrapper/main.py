@@ -24,30 +24,35 @@ dict = {
     },
     2: {
         1: "mildlyinteresting",
-        2: "interestingasfuck",
-        3: "damnthatsinteresting",
-        4: "beamazed",
-        5: "reallifeshinies",
-        6: "thatsinsane",
-        7: "playitagainsam",
+        2: "damnthatsinteresting",
+        3: "beamazed",
+        4: "reallifeshinies",
+        5: "thatsinsane",
+        6: "playitagainsam",
     },
     3: {
-        1: "gentlemanboners",
-        2: "prettygirls",
-        3: "hardbodies",
-        4: "girlsmirin",
-        5: "thinspo",
-        6: "goddesses",
-        7: "shorthairedhotties",
-        8: "fitandnatural",
-        9: "wrestlewiththeplot",
-        10: "skinnywithabs",
-        11: "bois",
-        12: "GentlemanBonersGifs",
+        1: "ArtFundamentals",
+        2: "Art",
+        3: "Sketchpad",
+        4: "ArtStore",
+        5: "ArtTools",
+        6: "ArtCrit",
+        7: "ArtBuddy",
+        8: "ConceptArt",
+        9: "ComputerGraphics",
+        10: "ArtDocumentaries",
     },
     4: {
-        1: "asiancuties",
-        2: "asiangirlsbeingcute",
+        1: "Photography",
+        2: "AskPhotography",
+        3: "PhotoMarket",
+        4: "PhotoClass",
+        5: "Cameras",
+        6: "Darkroom",
+        7: "Lightroom",
+        8: "PostProcessing",
+        9: "PhotoCritique",
+        10: "PictureChallenge",
     },
     5: {
         1: "PhotoshopBattles",
@@ -57,16 +62,28 @@ dict = {
         5: "colorization",
     },
     6: {
-        1: "amiugly",
-        2: "roastme",
-        3: "rateme",
-        4: "uglyduckling",
-        5: "prettygirlsuglyfaces",
+        1: "Illustration",
+        2: "RedditGetsDrawn",
+        3: "PixelArt",
+        4: "SpecArt",
+        5: "Comics",
+        6: "Design",
+        7: "WebDesign",
+        8: "Design_Critiques",
+        9: "Graphic_Design",
+        10: "LogoDesign",
     },
     7: {
-        1: "wallpapers",
-        2: "wallpaper",
-        3: "Offensive_Wallpapers",
+        1: "wallpaper",
+        2: "wallpapers",
+        3: "HDwallpapers",
+        4: "ultrahdwallpapers",
+        5: "WidescreenWallpaper",
+        6: "bigwallpapers",
+        7: "BackgroundArt",
+        8: "earthview",
+        9: "SpecArt",
+        10: "HI_Res",
     },
 }
 SubReddit = ""
@@ -92,7 +109,7 @@ if SearchType == "1":
         SubReddit = SubReddit_split[-1]
 elif SearchType == "2":
     input1 = input(
-        "Press : \n\t<1> For Category : Top\n\t<2> For Category : Interesting\n\t<3> For Category : Women\n\t<4> For Category : Asian\n\t<5> For Category : Photoshop\n\t<6> For Category : Selfies\n\t<7> For Category : Wallpapers\n>> "
+        "Press : \n\t<1> For Category : Top\n\t<2> For Category : Interesting\n\t<3> For Category : Art\n\t<4> For Category : Photography\n\t<5> For Category : Photoshop\n\t<6> For Category : Illustration\n\t<7> For Category : Wallpapers\n>> "
     )
     int_input1 = int(input1)
     if int_input1 >= 1 and int_input1 <= 7:
@@ -118,12 +135,14 @@ else:
     quit()
 
 result = requests.get(
-    "https://www.reddit.com/r/" + str(SubReddit) + ".json?limit=" + str(10),
+    "https://www.reddit.com/r/" + str(SubReddit) + ".json",
     headers={"User-agent": "Educational Purpose Scrapping"},
 )
 json_data = json.loads(result.text)
 
-for j in range(0, num):
+j = 0
+k = 0
+while j <= num * 2 and k < num:
     try:
         title = json_data["data"]["children"][j]["data"]["title"]
         download_url = json_data["data"]["children"][j]["data"][
@@ -137,7 +156,7 @@ for j in range(0, num):
                 path_and_name = str(download_path) + str(name)
                 urllib.request.urlretrieve(str(download_url), path_and_name)
                 print(
-                    str(j + 1)
+                    str(k + 1)
                     + ") Name: "
                     + str(title)
                     + " || Type: "
@@ -146,8 +165,11 @@ for j in range(0, num):
                     + str(download_url)
                     + "\n"
                 )
+                k = k + 1
             except:
                 print("Unable to Download Image No. : " + str(j + 1))
                 pass
+        j = j + 1
     except:
+        j = j + 1
         pass
