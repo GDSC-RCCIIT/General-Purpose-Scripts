@@ -1,4 +1,4 @@
-## Vaccination Cerntre Locator based in India
+## Currency Converter
 
 ![python](https://img.shields.io/badge/language-Python-orange?style=for-the-badge)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=plasitc)](https://github.com/psf/black)
@@ -38,9 +38,6 @@ To get such follow these steps:
 <img src="https://user-images.githubusercontent.com/82683890/135707245-66dcaa28-667d-463a-a7ab-c009f247e661.png" width="367"/> &nbsp; <img src="https://user-images.githubusercontent.com/82683890/135707247-7b3c0f2d-6236-42fb-8872-3b1687aa87ea.png" width="367"/> 
 <br>
 <img src="https://user-images.githubusercontent.com/82683890/135707250-64fbb10d-e5f3-460a-97ea-9fc273d73a07.png" width="367"/> &nbsp; <img src="https://user-images.githubusercontent.com/82683890/135707252-20354af9-381e-4c44-8a23-b4f38b50c6b6.png" width="367"/> 
-
-
-
 
 ### Video
 
