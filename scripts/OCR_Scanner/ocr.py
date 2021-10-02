@@ -2,12 +2,12 @@ from PIL import Image
 import pytesseract
 import numpy as np
 
-filename = '/home/harshil/Desktop/image_01.png'
+filename = 'https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/blob/main/scripts/OCR_Scanner/image_01.png'
 img = np.array(Image.open(filename))
 text = pytesseract.image_to_string(img)
 # print(text)
 content = text
-with open("/home/harshil/Documents/ocr.txt","w") as f:
+with open("https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/blob/main/scripts/OCR_Scanner/ocr.txt","w") as f:
    content = f.write(content)
    f.close()
    
