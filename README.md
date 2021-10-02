@@ -43,6 +43,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 16        | SMS Sender         | Easy CLI interface for users looking to test their SMS campaign integration with Kaleyra                                             | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS-Sender)         |
 | 17        | Song-Lyrics-Fetcher        | Fetch lyrics of a song and store in a text file                                                          | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Song-Lyrics-Fetcher)        |
 | 18        | Weather_Forecast_Script        | Script to forecast weather of a city                                                          | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/weather_forecast)        |
+| 19        | Pdf_Merger_Script        | Script to Merge PDF in a directory                                                          | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)        |
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
