@@ -44,7 +44,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 17        | Song-Lyrics-Fetcher        | Fetch lyrics of a song and store in a text file                                                          | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Song-Lyrics-Fetcher)        |
 | 18        | Weather_Forecast_Script        | Script to forecast weather of a city                                                          | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/weather_forecast) 
 | 19        | Reddit_Scrapper_Script        | Script to scrape data from reddit |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/redditScrapper)
- 20        | Image Compressor        | Script compress Images |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image-compressor) 
+| 20        | Image Compressor        | Script compress Images |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image-compressor)  | 21        | Reddit_Scrapper_Script        | Script to scrape data from reddit |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Json-xlsx)
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
