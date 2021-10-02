@@ -45,7 +45,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 18        | Weather_Forecast_Script        | Script to forecast weather of a city                                                          | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/weather_forecast) 
 | 19        | Reddit_Scrapper_Script        | Script to scrape data from reddit |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/redditScrapper)
 | 20        | Image Compressor        | Script compress Images |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image-compressor)  
-| 21        | JSON to xlsx converter        | Script to convert json to xlsx |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Json-xlsx) |
+| 21        | JSON to xlsx converter        | Script to convert json to xlsx |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Json-xlsx)
 | 22        | Reddit Image Scrapper      | Downloads Reddit Images according to given SubReddit without using API                                   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Reddit-Image-Scrapper)      |
 ---
 
