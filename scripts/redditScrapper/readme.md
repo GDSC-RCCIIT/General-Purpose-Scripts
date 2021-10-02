@@ -1,6 +1,12 @@
 ### Reddit Scraper 
 
-#### python scrapper.py
+### Packages 
+1. Requests
+2. csv
+3. time
+4. bs4
+
+#### Run using -> python scrapper.py
 
 Pretty straightforward to use, follow command line instructions.
 
