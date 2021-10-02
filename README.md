@@ -43,7 +43,8 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 16        | SMS Sender         | Easy CLI interface for users looking to test their SMS campaign integration with Kaleyra                         | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS-Sender)         |
 | 17        | Song-Lyrics-Fetcher        | Fetch lyrics of a song and store in a text file                                                          | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Song-Lyrics-Fetcher)        |
 | 18        | Weather_Forecast_Script        | Script to forecast weather of a city                                                          | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/weather_forecast)        |
-| 19        | Word Cloud Generator        | Python Script to Generate a Word Cloud                 | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Word-Cloud-Generator)        |
+| 19        | Word Cloud Generator        | Python Script to Generate a Word Cloud                 | [Find me here] 
+(https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Word-Cloud-Generator)    |
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
