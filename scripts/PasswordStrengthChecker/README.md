@@ -1,6 +1,6 @@
-# Password Strength Checker
+# Password Leak Checker
 > This python script will allow you to check if your password has been
-> compromised in any ofthe data breaches.
+> compromised in any other data breaches.
 > This is the simple way of checking how strong is your password.
 
 ## Why use this
