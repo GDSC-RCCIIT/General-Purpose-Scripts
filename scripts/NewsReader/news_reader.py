@@ -16,7 +16,7 @@ print("\t\t\t\t\t\t ~~~~~~~~~~~~~~~~~~~")
 print("\tHello! Welcome to the news reader app.\n")
 
 req = requests.get(
-    "https://newsapi.org/v2/top-headlines?country=in&apiKey=34f65666464e465a9c553b3d6445fa66"
+    "https://newsapi.org/v2/top-headlines?country=in&apiKey=<your_api_key>"
 )
 dict = json.loads(req.text)
 
