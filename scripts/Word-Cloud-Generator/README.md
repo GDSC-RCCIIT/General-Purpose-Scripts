@@ -13,7 +13,13 @@
 * Then run the calculate_frequencies function to do the actual processing
 * Run the last cell to diplay the Word Cloud
 * There you go! Your Word Cloud is Generated in 5 easy steps
+  
+## Generated Word Cloud
+  
+  <kbd><img src="/scripts/Word-Cloud-Generator/images/Word Cloud.png"></kbd><br><br>
+  
+  
 
-Happy Coding !
+### Happy Coding !
 
 
