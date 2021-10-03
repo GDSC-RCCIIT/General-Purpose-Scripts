@@ -54,6 +54,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 27        | Twitter-Scraper            | Scrape Tweets of a user-inputted Hashtag                                                                 | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Twitter-Scraper)            |
 | 28        | Terminal Video Editor      | Edit Small Videos (less than : 10 mins) directly from your Terminal                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Terminal-Video-Editor)      |
 | 29        | News_Reader_Script        | Script to read news |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/NewsReader)
+| 30        | Password-Generator        | Script to generate a strong random password. |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Password-Generator)
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
