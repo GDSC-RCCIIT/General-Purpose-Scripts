@@ -11,7 +11,7 @@
 * Import the required libraries
 * Run the function to upload the txt file which will be used to generate the Word Cloud
 * Then run the calculate_frequencies function to do the actual processing
-* Run the last cell to diplay the Word Cloud
+* Run the last function to diplay the Word Cloud
 * There you go! Your Word Cloud is Generated in 5 easy steps
   
 ## Generated Word Cloud
