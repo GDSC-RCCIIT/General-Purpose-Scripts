@@ -69,13 +69,13 @@ def runPy():
         print(info)
         speak(info)
     elif 'latest news' in command:
-        new=pynews --news-stories   #latest news (new news)
+        new=pynews --news-stories     #latest news (new news)
         print(new)
         speak(new)
         
       
     elif 'trending news' in command:
-        top=pynews --top-stories 10   #top news (trending news)
+        top=pynews --top-stories      #top news (trending news)
         print(top)
         speak(top)
         
