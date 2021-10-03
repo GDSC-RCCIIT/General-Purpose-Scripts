@@ -14,3 +14,13 @@
 - Also you can manually run .py file using `python news_reader.py` in the project folder
 
 ---
+
+## How to generate API Key :
+
+---
+
+- Goto https://newsapi.org
+- Generate your API key by logging in with an account.
+- Finally, replace the generated API with <your_api_key> in the line-19
+
+---
