@@ -7,7 +7,7 @@
 
 ### About
 
-A Python3 script to automate the email sending process
+A Python3 script to verify the OTP system with GUI
 
 ### Setup
 
