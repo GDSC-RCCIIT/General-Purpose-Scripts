@@ -8,8 +8,8 @@ image = ImageGrab.grab()
 width, height = image.size
 print("width:", width, "height:", height)
 print("image mode:", image.mode)
-time1 = datetime.datetime.now().strftime('%Y-%m-%d %H-%M')
-test = f'{time1}.mp4'
+time1 = datetime.datetime.now().strftime("%Y-%m-%d %H-%M")
+test = f"{time1}.mp4"
 fourcc = cv2.VideoWriter_fourcc(*"mp4v")  # encoding format
 capture_video = cv2.VideoWriter(test, fourcc, 9.5, (width, height))
 print("video recording !!!!!")
