@@ -49,7 +49,11 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 22        | Reddit Image Scrapper      | Downloads Reddit Images according to given SubReddit without using API                                   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Reddit-Image-Scrapper)      |
 | 23        | PDF_Merger_Script        | Script to merge pdf |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)
 | 24       | Yaml-Json-Generator       | Generate JSON files from YAML files in a directory |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator) 
+<<<<<<< HEAD
 | 25       | Audio file converter       | Script to change audio file formats |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/audio-file-converter)
+=======
+| 25      | audio-format-converter       | Script to change audio file format |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/audio-format-converter) 
+>>>>>>> c3f5d29... update
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
