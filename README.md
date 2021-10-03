@@ -49,6 +49,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 22        | Reddit Image Scrapper      | Downloads Reddit Images according to given SubReddit without using API                                   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Reddit-Image-Scrapper)      |
 | 23        | PDF_Merger_Script        | Script to merge pdf |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)
 | 24       | Yaml-Json-Generator       | Generate JSON files from YAML files in a directory |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator) 
+|25        | Command line chart tool | script to make fast pie charts from command line | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CLI_pie-chart-maker)
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
