@@ -54,9 +54,11 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 27        | Twitter-Scraper            | Scrape Tweets of a user-inputted Hashtag                                                                 | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Twitter-Scraper)            |
 | 28        | Terminal Video Editor      | Edit Small Videos (less than : 10 mins) directly from your Terminal                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Terminal-Video-Editor)      |
 | 29        | News_Reader_Script        | Script to read news |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/NewsReader)
-| 30        | Audio file format converter       | Script to change audio file formats |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/audio-format-converter)
+| 30        |Password Leak Checker  | How many times your password has been breached    | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PasswordStrengthChecker)
+| 31        | Audio file format converter       | Script to change audio file formats |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/audio-format-converter)
 
 =======
+
 
 
 
