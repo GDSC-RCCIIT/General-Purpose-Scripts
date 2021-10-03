@@ -5,7 +5,7 @@
 2. mutagen
 3. keyboard
 
-### USAGE 
+### WORKING 
 
 There are 2 functions in the Script.
 
@@ -16,11 +16,14 @@ There are 2 functions in the Script.
     parameters
 
              This can be used to find the Sample Rate of the Audio file.
-        
-### Replace dir of audio file at L10 with the file you want to change the format of.
 
-### Run using -> python script.py
+### HOW TO USE
+<blockquote>        
+ 
+ Replace dir of audio file at L10 with the file you want to change the format of.
 
-### Follow command line instructions
+ Run using -> python script.py
 
-### File shall be exported the current working dir
+ Follow command line instructions
+
+ File shall be exported to the current working dir
