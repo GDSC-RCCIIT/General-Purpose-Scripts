@@ -54,6 +54,17 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 23        | PDF_Merger_Script          | Script to merge pdf                                                                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)                 |
 | 24        | Yaml-Json-Generator        | Generate JSON files from YAML files in a directory                                                       | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator)        |
 | 25        | Twitter-Scraper            | Scrape Tweets of a user-inputted Hashtag                                                                 | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Twitter-Scraper)            |
+| 26        | PDF_Merger_Script        | Script to merge pdf |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)
+| 27       | Yaml-Json-Generator       | Generate JSON files from YAML files in a directory |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator) 
+| 28        | PDF_Merger_Script          | Script to merge pdf                                                                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)                 |
+| 29        | Yaml-Json-Generator        | Generate JSON files from YAML files in a directory                                                       | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator)        |
+| 30        | Twitter-Scraper            | Scrape Tweets of a user-inputted Hashtag                                                                 | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Twitter-Scraper)            |
+| 31        | Terminal Video Editor      | Edit Small Videos (less than : 10 mins) directly from your Terminal                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Terminal-Video-Editor)      |
+| 32        | News_Reader_Script        | Script to read news |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/NewsReader)                 |
+| 33        |Password Leak Checker  | How many times your password has been breached    | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PasswordStrengthChecker)
+| 34        |OSINT Tool  | Help Find OSINT info about phone number & IP address    | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/OSINT_TOOLS)
+| 35        |AudioBook | Converts PDF-to-speech   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AudioBook)
+| 36        |Word Cloud Generator| Converts the txt uploaded into a Word Cloud   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Word-Cloud-Generator)
 
 ---
 
