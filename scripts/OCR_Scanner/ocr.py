@@ -17,5 +17,3 @@ with open(
     "w",
 ) as f:
     content = f.write(content)
-    f.close()
-`
