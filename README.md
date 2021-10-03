@@ -56,12 +56,10 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 29        | News_Reader_Script        | Script to read news |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/NewsReader)
 | 30        |Password Leak Checker  | How many times your password has been breached    | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PasswordStrengthChecker)
 | 31        |OSINT Tool  | Help Find OSINT info about phone number & IP address    | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/OSINT_TOOLS)
-| 32        | Audio file format converter       | Script to change audio file formats |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/audio-format-converter)
+| 32        |AudioBook | Converts PDF-to-speech   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AudioBook)
+| 33        | Audio file format converter       | Script to change audio file formats |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/audio-format-converter)
 
 =======
-
-
-
 
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
