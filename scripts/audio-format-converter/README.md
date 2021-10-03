@@ -20,7 +20,7 @@ There are 2 functions in the Script.
 ### HOW TO USE
 <blockquote>        
  
- Replace dir of audio file at L10 with the file you want to change the format of.
+ Enter audio file dir as prompted!
 
  Run using -> python script.py
 
