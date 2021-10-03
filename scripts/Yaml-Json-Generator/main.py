@@ -28,6 +28,3 @@ for files in directory_list:
         continue
 
 print("Done !")
-
-
-    
