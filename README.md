@@ -49,7 +49,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 22        | Reddit Image Scrapper      | Downloads Reddit Images according to given SubReddit without using API                                   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Reddit-Image-Scrapper)      |
 | 23        | PDF_Merger_Script        | Script to merge pdf |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)
 | 24       | Yaml-Json-Generator       | Generate JSON files from YAML files in a directory |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator)
-| 25       | Folder Locker Hider       | Can hide and password protect folders |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator)  
+| 25       | Folder Locker Hider       | Can hide and password protect folders |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Folder%20Locker%20%26%20Hider)  
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
