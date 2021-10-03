@@ -15,7 +15,7 @@ def request_api_data(query_char):
         res.status_code != 200
     ):  # if res.status_code is not 200 then there is some problem
         raise RuntimeError(
-            f"Error fetching: {res.status_code}, chech the API and try again."
+            f"Error fetching: {res.status_code}, check the API and try again."
         )
     return res
 
