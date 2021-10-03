@@ -5,10 +5,12 @@ import pydub
 import mutagen
 import keyboard
 
-# Directory containing the audio File
-# Extension is according the the file type before conversion.
-song_dir = "./*.mp3"
-
+#enter dir of audio file
+song_dir = input("Enter : audio file path\n>> ")
+Path_Exist = os.path.isfile(song_dir)
+if Path_Exist == False:
+    print("Invalid")
+    quit()
 
 def conversion(song):
     for song in song:
