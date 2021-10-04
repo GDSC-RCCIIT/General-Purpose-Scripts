@@ -11,7 +11,7 @@ if "Linux" in platform.platform():
 elif "Darwin" in platform.platform():
     print("System Detected: ", platform.platform())
     hosts_path = "/etc/hosts"
-elif "Windows" in platform.platform():
+elif "Window" in platform.platform():
     print("System Detected: ", platform.platform())
     hosts_path = "C:\\Windows\\System32\\drivers\\etc"
 
