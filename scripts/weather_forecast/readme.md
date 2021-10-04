@@ -2,7 +2,7 @@
 ## About
 A Python script to get weather forecast for a particular city. 
 ## Setup
-**Step1:** Install Python3 [Link](https://www.python.org/downloads/)  
+**Step1:** Install Python3 [Link](https://www.python.org/downloads/ )  
 **Step2:** Install geopy library [Link](https://github.com/geopy/geopy)
 ```
 pip install geopy
