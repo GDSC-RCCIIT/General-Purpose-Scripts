@@ -24,7 +24,15 @@ while True:
 #draw rectangle on images having barcode area
         pos2=barcode.rect
 #show the outcome or output of decoding
-        cv2.putText(frames,output,(pos2[0],pos2[1]),cv2.FONT_HERSHEY_PLAIN,2,(0,255,0),2)
+        cv2.putText(
+            frames,
+            output,
+            (pos2[0],pos2[1]),
+            cv2.FONT_HERSHEY_PLAIN,
+            2,
+            (0,255,0),
+            2
+        )
 #show images/frames on scanner window
     cv2.imshow('scaner',frames)
 #funnctionality to clear and exit
