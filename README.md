@@ -57,6 +57,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 30        |Password Leak Checker  | How many times your password has been breached    | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PasswordStrengthChecker)
 | 31        |OSINT Tool  | Help Find OSINT info about phone number & IP address    | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/OSINT_TOOLS)
 | 32        |AudioBook | Converts PDF-to-speech   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AudioBook)
+| 33 | Doc to PDF Converter | Converts docx file(s) to PDF files | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Doc%20To%20PDF%20Converter)
 ---
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
