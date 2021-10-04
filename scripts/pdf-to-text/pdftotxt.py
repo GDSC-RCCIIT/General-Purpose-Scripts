@@ -7,3 +7,5 @@ extract_text = convert_pages.extractText()
 location = open(r"C:\Users\91998\Documents\projects\pdf to text\hyper.txt",'a')
 location.writelines(extract_text)
 location.close()
+
+
