@@ -14,8 +14,9 @@ def covid_data():
     html_data = get_html_data(url)
 
     soup = bs4.BeautifulSoup(html_data, "lxml")
-    info_div = soup.find(
-        "div", class_="content-inner").find_all("div", id="maincounter-wrap")
+    info_div = soup.find("div", class_="content-inner").find_all(
+        "div", id="maincounter-wrap"
+    )
 
     return "".join(div.h1.text + " " + div.span.text + "\n" for div in info_div)
     
@@ -36,14 +37,17 @@ def get_country_data():
         html_data = get_html_data(url)
 
         soup = bs4.BeautifulSoup(html_data, "lxml")
-        info_div = soup.find(
-            "div", class_="content-inner").find_all("div", id="maincounter-wrap")
+        info_div = soup.find("div", class_="content-inner").find_all(
+            "div", id="maincounter-wrap"
+        )
         info_div = info_div[:3]
-        country_data = "".join(div.h1.text + " " +
-                            div.span.text + "\n" for div in info_div)
+        country_data = "".join(
+            div.h1.text + " " + div.span.text + "\n" for div in info_div
+        )
         data_label.config(text=country_data)
     else:
         data_label.config(text="Please enter a Country Name")
+        
 
 root = Tk()
 root.geometry("500x500")
