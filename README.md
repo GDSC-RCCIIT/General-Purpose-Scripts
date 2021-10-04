@@ -60,5 +60,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 |33        | Command line chart tool | script to make fast pie charts from command line | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CLI_pie-chart-maker)
 |34        | Covid Tracker | script which tracks the number of cases, deaths and recovered cases of covid patients| [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Covid-Tracker)
 |35        | sketch image converter | script which convert a colored photo into sketch photo| [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_converter)
+|36        | Image Format Converter | script which converts Image Formats into each other (JPEG,PNG,WEBP) | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/157)
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
