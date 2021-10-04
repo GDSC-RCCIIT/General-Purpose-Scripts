@@ -1,6 +1,6 @@
 import PyPDF2
 read_pdf = open('hyperloop.pdf','rb')
-reader_pdf = PyPDF2.PdfFileReader(read_pdf)
+reader_pdf = PyPDF2.PdfFileReader(read_pdf)#to read file
 num_pages = reader_pdf.numPages
 convert_pages = reader_pdf.getPage(num_pages-1)
 extract_text = convert_pages.extractText()
