@@ -15,3 +15,4 @@
    ```
    python3 qr_code_scanner.py
    ```
+   
