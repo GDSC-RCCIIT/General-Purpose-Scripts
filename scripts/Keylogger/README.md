@@ -17,7 +17,7 @@ git clone https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git
 pip install -r requirements.txt
 ```
 
-- Run `python keylogger.py` in your terminal. 
+- Run `python script.py` in your terminal. 
 
 
 ### Instructions
