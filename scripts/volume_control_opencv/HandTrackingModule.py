@@ -16,9 +16,7 @@ class handDetector:
             self.mode, self.maxHands, self.detectionCon, self.trackCon
         )
         self.mpDraw = pipe.solutions.drawing_utils
-        # self.lmList = []
-        self.c = 0
-        self.p = 0
+        # tip ids of all fingers' landmarks
         self.tipIds = [4, 8, 12, 16, 20]
 
     def findHands(self, img, draw=True):
@@ -35,8 +33,8 @@ class handDetector:
 
         return img
 
-    def finPosition(self, img, handNo=0, draw=True):
-
+    # finds position of finger tips and also draws boundary box around the hand
+    def findPosition(self, img, handNo=0, draw=True):
         xList = []
         yList = []
         bbox = []
@@ -67,6 +65,7 @@ class handDetector:
 
         return self.lmList, bbox
 
+    #  check if certain finger is up or not
     def fingersUp(self):
         fingers = []
 
@@ -82,6 +81,7 @@ class handDetector:
                 fingers.append(0)
         return fingers
 
+    # finds distance between two points
     def findDistance(self, p1, p2, img, draw=True):
         x1, y1 = self.lmList[p1][1], self.lmList[p1][2]
         x2, y2 = self.lmList[p2][1], self.lmList[p2][2]
@@ -96,22 +96,7 @@ class handDetector:
 
         return length, img, [x1, y1, x2, y2, cx, cy]
 
-    def drawFPS(self, img):
-        self.c = time.time()
-        fps = 1 / (self.c - self.p)
-        self.p = self.c
-
-        cv2.putText(
-            img,
-            str((int(fps))),
-            (10, 50),
-            cv2.FONT_HERSHEY_COMPLEX_SMALL,
-            3,
-            (255, 0, 255),
-            3,
-        )
-
-
+# basic main function to test HandTrackingModule.py
 def main():
     cTime = 0
     pTime = 0
@@ -145,7 +130,6 @@ def main():
 
     capture.release()
     cv2.destroyAllWindows()
-
 
 if __name__ == "__main__":
     main()
