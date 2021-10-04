@@ -1,4 +1,5 @@
 # Script to automate Email Sending
+"""Note: To run this script enable "Less Secure Apps" shown in Readme file"""
 import smtplib
 
 to = input("Enter the Email of recipent:\n")
