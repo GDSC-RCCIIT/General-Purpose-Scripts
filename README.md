@@ -77,7 +77,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 31        |OSINT Tool  | Help Find OSINT info about phone number & IP address    | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/OSINT_TOOLS)
 | 32        |AudioBook | Converts PDF-to-speech   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AudioBook)
 |33        | Command line chart tool | script to make fast pie charts from command line | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CLI_pie-chart-maker)
-
----
+|34        | Covid Tracker | script which tracks the number of cases, deaths and recovered cases of covid patients| [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Covid-Tracker)
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
