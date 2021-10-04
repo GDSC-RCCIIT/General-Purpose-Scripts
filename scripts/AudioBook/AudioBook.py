@@ -10,7 +10,9 @@ print(pages)  # prints number of pages
 
 speaker = pyttsx3.init()  # Initialize the speaker
 rate = speaker.getProperty("rate")
-speaker.setProperty("rate", 170)
+
+user_rate = int(input("At what rate do you want to hear Audiobook?"))       #taking reading rate input from user
+speaker.setProperty("rate", user_rate)
 # rate=170 is normal speed, you can increase and decrease as per your convenience
 
 speaker = pyttsx3.init()
