@@ -19,7 +19,7 @@ def covid_data():
     )
 
     return "".join(div.h1.text + " " + div.span.text + "\n" for div in info_div)
-    
+
 
 def reload():
     country_name = e.get()
@@ -27,7 +27,6 @@ def reload():
         get_country_data()
     else:
         data_label.config(text=covid_data())
-        
 
 
 def get_country_data():
@@ -48,7 +47,6 @@ def get_country_data():
         data_label.config(text=country_data)
     else:
         data_label.config(text="Please enter a Country Name")
-
 
 
 root = Tk()
