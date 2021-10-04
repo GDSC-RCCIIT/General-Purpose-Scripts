@@ -30,8 +30,8 @@ website_list = [
 
 
 # time of your work
-inp = input('''You want to WORK or have FUN [work(W)/fun[F]]:''')
-if (inp == 'W' or inp == 'w'):
+inp = input("""You want to WORK or have FUN [work(W)/fun[F]]:""")
+if inp == "W" or inp == "w":
     print("Working hours...")
     with open(hosts_path, "r+") as file:
         content = file.read()
@@ -41,7 +41,7 @@ if (inp == 'W' or inp == 'w'):
             else:
                 # mapping hostnames to your localhost IP address
                 file.write(redirect + " " + website + "\n")
-elif(inp == 'F' or inp == 'f'):
+elif inp == "F" or inp == "f":
     with open(hosts_path, "r+") as file:
         content = file.readlines()
         file.seek(0)
@@ -55,4 +55,3 @@ elif(inp == 'F' or inp == 'f'):
     print("Fun hours...")
 else:
     print("Sorry, Couldn't understand what you want")
-
