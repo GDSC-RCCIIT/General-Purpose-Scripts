@@ -5,7 +5,7 @@ from googleapiclient.discovery import build
 
 # Paste the playlist link here for which you want the total time duration
 playlist_link = (
-    "https://www.youtube.com/playlist?list=PLgwJf8NK-2e4jKYhntba93CwJTTJ-Vl5c"
+    "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
 )
 
 keyword = "playlist?list="
