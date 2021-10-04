@@ -15,7 +15,7 @@ https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git
 ```
 cd General-Purpose-Scripts/scripts/weather_forecast
 ```
-**Step5:** Run the script
+**Step5:** Run the Script
 ```
 python forecast.py <city_name>
 ```
