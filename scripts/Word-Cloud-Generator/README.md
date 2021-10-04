@@ -7,7 +7,12 @@
 
 ## How to run the Script ?
 
-* Install the required modules to generate a word cloud
+* Install the following required modules to generate a word cloud
+  * pip install wordcloud
+  * pip install fileupload
+  * pip install ipywidgets
+  * jupyter nbextension install --py --user fileupload
+  * jupyter nbextension enable --py fileupload
 * Import the required libraries
 * Run the function to upload the txt file which will be used to generate the Word Cloud
 * Then run the calculate_frequencies function to do the actual processing
