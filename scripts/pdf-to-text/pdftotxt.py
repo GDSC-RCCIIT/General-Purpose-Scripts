@@ -9,3 +9,6 @@ location.writelines(extract_text)
 location.close()
 
 
+
+
+
