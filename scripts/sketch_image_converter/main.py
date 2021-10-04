@@ -1,3 +1,4 @@
+# importing openCV
 import cv2
 
 def sketchImage(filename):
@@ -6,6 +7,7 @@ def sketchImage(filename):
                      in the function)
     :return:
     """
+
     image = cv2.imread(filename)
     gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     inverted_image = 255 - gray_image
