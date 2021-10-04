@@ -27,6 +27,7 @@ def reload():
         get_country_data()
     else:
         data_label.config(text=covid_data())
+        
 
 
 def get_country_data():
@@ -47,7 +48,8 @@ def get_country_data():
         data_label.config(text=country_data)
     else:
         data_label.config(text="Please enter a Country Name")
-        
+
+
 
 root = Tk()
 root.geometry("500x500")
