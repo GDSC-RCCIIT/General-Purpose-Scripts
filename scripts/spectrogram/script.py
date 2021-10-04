@@ -8,10 +8,10 @@ Path_Exist = os.path.isfile(audio_path)
 if Path_Exist == False:
     print("Wrong Path Input")
     quit()
-samplingFrequency, signalData = wavfile.read(audio_path, 'r')
-# due to most files being stereo-> 2 channels -> L : R 
-# we split stereo into mono L || R 
-p = signalData[:, 0] #selection b/w 0 & 1 -> L : R channel
+samplingFrequency, signalData = wavfile.read(audio_path, "r")
+# due to most files being stereo-> 2 channels -> L : R
+# we split stereo into mono L || R
+p = signalData[:, 0]  # selection b/w 0 & 1 -> L : R channel
 plot.subplot(211)
 plot.title("Spectrogram of a wav file")
 plot.plot(signalData)
