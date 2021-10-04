@@ -1,3 +1,1 @@
-
-python 3.8 must be on machine
-matplotlib 3.4.3 must be on machine
+matplotlib==3.4.3
