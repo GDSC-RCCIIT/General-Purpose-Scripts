@@ -1,3 +1,5 @@
+# Created by @nipunarora8
+
 from tkinter import *
 from PIL import ImageTk, Image
 import cv2
