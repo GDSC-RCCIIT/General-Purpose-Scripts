@@ -9,7 +9,7 @@ import numpy as np
 mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 from mediapipe.python.solutions.pose import PoseLandmark
-from scripts/AI Workout Tracker/exercise.py import workout
+from scripts/AI Workout Tracker/exercise import workout
 
 root = Tk()
 root.attributes("-fullscreen", True)
