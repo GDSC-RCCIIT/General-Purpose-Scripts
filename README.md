@@ -47,8 +47,8 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 20        | Image Compressor           | Script compress Images                                                                                   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS%20Sender)               |
 | 21        | JSON to xlsx converter     | Script to convert json to xlsx                                                                           | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Json-xlsx)                  |
 | 22        | Reddit Image Scrapper      | Downloads Reddit Images according to given SubReddit without using API                                   | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Reddit-Image-Scrapper)      |
-| 23        | PDF_Merger_Script        | Script to merge pdf |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)
-| 24       | Yaml-Json-Generator       | Generate JSON files from YAML files in a directory |             [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator) 
+| 23        | PDF_Merger_Script          | Script to merge pdf                                                                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)                 |
+| 24        | Yaml-Json-Generator        | Generate JSON files from YAML files in a directory                                                       | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator)        |
 | 25        | PDF_Merger_Script          | Script to merge pdf                                                                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)                 |
 | 26        | Yaml-Json-Generator        | Generate JSON files from YAML files in a directory                                                       | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator)        |
 | 27        | Twitter-Scraper            | Scrape Tweets of a user-inputted Hashtag                                                                 | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Twitter-Scraper)            |
@@ -61,6 +61,8 @@ Once you are done working on your script edit this `README.md` file and add the 
 |34        | Covid Tracker | script which tracks the number of cases, deaths and recovered cases of covid patients| [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Covid-Tracker)
 |35        | sketch image converter | script which convert a colored photo into sketch photo| [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_converter)
 |36       | Steganography | script to encrypt text to an image and decrypt text from it | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Steganography)
+|37      | Youtube-Playlist-Duration  | calculates the total duration of a Youtube Playlist                                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Youtube-Playlist-Duration)  |
+|38       | OCR Script Scanner        | Extracts text from image file by scanning it                                            |[Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/OCR-Script/scripts/OCR_Scanner)             |
 
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
