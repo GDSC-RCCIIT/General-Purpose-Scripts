@@ -66,7 +66,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 |39        | Spectrogram | script to visualize wav files using spectrogram | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/spectrogram)
 | 40        | Ceaser Cipher | script to encode and decode | [Find me here](https://github.com/st0rm2/General-Purpose-Scripts/tree/main/scripts/Ceaser%20Cipher)
 | 41        | Automatic Screen Recorder | script to record the laptop screen automatically | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/133)
-| 42        | LinkedIn Job Scraper| Scrap Jobs listed in LinkedIn & saves them in `.csv` file | [Find me here](https://github.com/General-Purpose-Scripts/tree/main/scripts/LinkedIn-Job-Scraper)
+| 42        | LinkedIn Job Scraper| Scrap Jobs listed in LinkedIn & saves them in `.csv` file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/LinkedIn-Job-Scraper)
 
 
 
