@@ -7,8 +7,9 @@
 
 
 ## Usage
-1. Run using -> python script.py
-2. Enter File Path
+1. Install requirements using -> pip install -r requirements.txt
+2. Run using -> python script.py
+3. Enter File Path
 
 ## Working
 Can be used in decrypting steganographic images.
