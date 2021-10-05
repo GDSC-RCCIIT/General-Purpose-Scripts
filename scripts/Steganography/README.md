@@ -97,7 +97,3 @@ with open("recovered.bin", "rb") as f:
 ```
 
 
-License
--------
-
-This software is MIT-Licensed.
