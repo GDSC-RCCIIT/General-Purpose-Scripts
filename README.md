@@ -63,6 +63,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 | 36        | Youtube-Playlist-Duration  | calculates the total duration of a Youtube Playlist                                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Youtube-Playlist-Duration)  |
 |37        | OCR Script Scanner        | Extracts text from image file by scanning it                                            |[Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/OCR-Script/scripts/OCR_Scanner)             |
 | 38 | Doc to PDF Converter | Converts docx file(s) to PDF files | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Doc%20To%20PDF%20Converter)
-
+|39        | Spectrogram | script to visualize wav files using spectrogram | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/spectrogram)                                                                                         |
+=======
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
