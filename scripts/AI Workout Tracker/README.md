@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<img src="AI Workout Tracker/resources/main_screen.png">
+![main_screen](https://user-images.githubusercontent.com/46936479/136100021-ca8a4e80-112c-480d-9ff7-f7d46f2852e3.png)
 
 This project was worked as a part of Hacktober Fest, it is an AI based workout tracker that is able to detect body landmarks and present you the results. 
 Using Google Mediapipe and some math, the algorithm was able to perform exceptionally well. 
