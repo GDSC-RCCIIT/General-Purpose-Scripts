@@ -12,7 +12,7 @@ Base64 is a encoding are scheme used in encoding and decoding
 
 
 ## __ABOUT__
-**ChatMachine** is a only suggest how can we achieve our End-to-End encyotion schems thats leads to secures messaging in python application that helps user to maintain our privacy from hackers and thirs party applications 
+**ChatMachine** is a only suggest how can we achieve our End-to-End encyption schems thats leads to secures messaging in python application that helps user to maintain our privacy from hackers and thirs party applications 
 
 ## ___How its Work __
 ### when user wants to send a message to his frieds he encript with a certain key then another user can able to access this only iff knew the key inserted while encryptiion
@@ -21,7 +21,7 @@ Base64 is a encoding are scheme used in encoding and decoding
 
 ## to use you can perform following activity
 
-- in first msg box enter you msg
+- in first msg box enter you massage
     ```
     sent Rs. 9000
     ```
