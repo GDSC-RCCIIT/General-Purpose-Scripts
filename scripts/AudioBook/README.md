@@ -23,4 +23,4 @@ An audiobook is a recording or voiceover of a book or other work read aloud. You
     python3 AudioBook.py
     ```
 
-Now you are done with it. Get started!
+-Run the program and select a file you want to listen.
