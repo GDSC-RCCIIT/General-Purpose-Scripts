@@ -61,12 +61,12 @@ Once you are done working on your script edit this `README.md` file and add the 
 |34        | Covid Tracker | script which tracks the number of cases, deaths and recovered cases of covid patients| [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Covid-Tracker)
 |35        | sketch image converter | script which convert a colored photo into sketch photo| [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_converter)
 | 36        | Youtube-Playlist-Duration  | calculates the total duration of a Youtube Playlist                                                      | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Youtube-Playlist-Duration)  |
-|37        | OCR Script Scanner        | Extracts text from image file by scanning it                                            |[Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/OCR-Script/scripts/OCR_Scanner)             |
+|37        | OCR Script Scanner        | Extracts text from image file by scanning it                                            |[Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/OCR_Scanner)             |
 | 38 | Doc to PDF Converter | Converts docx file(s) to PDF files | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Doc%20To%20PDF%20Converter)
 |39        | Spectrogram | script to visualize wav files using spectrogram | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/spectrogram)
 | 40        | Ceaser Cipher | script to encode and decode | [Find me here](https://github.com/st0rm2/General-Purpose-Scripts/tree/main/scripts/Ceaser%20Cipher)
 | 41        | Automatic Screen Recorder | script to record the laptop screen automatically | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/133)
 | 42        | LinkedIn Job Scraper| Scrap Jobs listed in LinkedIn & saves them in `.csv` file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/LinkedIn-Job-Scraper)
 | 43        | Hand Recognition Module | Detects hand and returns coordinate of various points on hand in a live stream | [Find me here](https://github.com/Harshit-2000/General-Purpose-Scripts/tree/main/scripts/HandDetectionModule)
-
+| 44        | Battery Alert        | Notifies after threshold unit of battery change                                            |[Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/scripts/Battery-Notifier)             |
 ### Good Luck and don't forget to have fun with Open Source 🚀
