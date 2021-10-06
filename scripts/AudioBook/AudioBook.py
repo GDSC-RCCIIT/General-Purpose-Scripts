@@ -2,7 +2,28 @@ import pyttsx3
 import PyPDF2
 
 print("WELCOME TO AUDIOBOOK")
-filename = input("Enter name of input file(with .pdf extension):")
+import tkinter as tk
+from tkinter import filedialog
+import os
+print("Please select a file:")
+root = tk.Tk()
+root.withdraw()
+
+files = filedialog.askopenfilename()
+
+files2=files.split("/")
+filename=files2[len(files2)-1]
+"""Removing filename from path"""
+removing_file=[]
+for i in range(len(files2)):
+    if i!=len(files2)-1:
+        removing_file.append(files2[i]+"/")
+"""Assigning path"""
+path=""
+for a in removing_file:
+    path+=a
+
+os.chdir(path)
 book = open(filename, "rb")
 pdfReader = PyPDF2.PdfFileReader(book)
 pages = pdfReader.numPages
