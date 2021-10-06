@@ -7,15 +7,16 @@ from kivy.clock import Clock
 from kivy.graphics.texture import Texture
 from datetime import datetime
 
-
 class ControlPanel(GridLayout):
 
+    # Function to save the images
     def save_image(self, event):
         frame = self.main_layout.frame
         now = datetime.now()
         date_time = now.strftime("%m-%d-%Y_%H-%M-%S")
         cv2.imwrite(date_time+".png", frame)
 
+    # Start recording the videos
     def start_video(self, event):
         self.start.disabled = True
         self.stop.disabled = False
@@ -29,12 +30,14 @@ class ControlPanel(GridLayout):
         self.videowriter = cv2.VideoWriter(date_time+".avi", cv2.VideoWriter_fourcc(*'MJPG'), 10, size)
         self.videoClock = Clock.schedule_interval(self.write_frame, 1 / 10)
 
+    # Stop recording videos
     def stop_video(self, event):
         self.start.disabled = False
         self.stop.disabled = True
         self.videowriter.release()
         self.videoClock.release()
 
+    #Write the video frame by frame
     def write_frame(self, event):
         self.videowriter.write(self.main_layout.frame)
 
@@ -56,7 +59,7 @@ class ControlPanel(GridLayout):
         self.start.bind(on_press=self.start_video)
         self.stop.bind(on_press=self.stop_video)
 
-
+# Main layout of the app
 class MainLayout(GridLayout):
 
     def update(self, event):
