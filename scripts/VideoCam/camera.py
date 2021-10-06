@@ -7,6 +7,7 @@ from kivy.clock import Clock
 from kivy.graphics.texture import Texture
 from datetime import datetime
 
+
 class ControlPanel(GridLayout):
 
     # Function to save the images
@@ -14,7 +15,7 @@ class ControlPanel(GridLayout):
         frame = self.main_layout.frame
         now = datetime.now()
         date_time = now.strftime("%m-%d-%Y_%H-%M-%S")
-        cv2.imwrite(date_time+".png", frame)
+        cv2.imwrite(date_time + ".png", frame)
 
     # Start recording the videos
     def start_video(self, event):
@@ -27,7 +28,9 @@ class ControlPanel(GridLayout):
         now = datetime.now()
         date_time = now.strftime("%m-%d-%Y_%H-%M-%S")
 
-        self.videowriter = cv2.VideoWriter(date_time+".avi", cv2.VideoWriter_fourcc(*'MJPG'), 10, size)
+        self.videowriter = cv2.VideoWriter(
+            date_time + ".avi", cv2.VideoWriter_fourcc(*"MJPG"), 10, size
+        )
         self.videoClock = Clock.schedule_interval(self.write_frame, 1 / 10)
 
     # Stop recording videos
@@ -37,7 +40,7 @@ class ControlPanel(GridLayout):
         self.videowriter.release()
         self.videoClock.release()
 
-    #Write the video frame by frame
+    # Write the video frame by frame
     def write_frame(self, event):
         self.videowriter.write(self.main_layout.frame)
 
@@ -59,17 +62,19 @@ class ControlPanel(GridLayout):
         self.start.bind(on_press=self.start_video)
         self.stop.bind(on_press=self.stop_video)
 
+
 # Main layout of the app
 class MainLayout(GridLayout):
-
     def update(self, event):
         retval, frame = self.capture.read()
         if retval:
             self.frame = frame
             flipped = frame[::-1]
             buf = flipped.tostring()
-            texture = Texture.create(size=(frame.shape[1], frame.shape[0]), colorfmt="bgr")
-            texture.blit_buffer(buf, colorfmt="bgr", bufferfmt='ubyte')
+            texture = Texture.create(
+                size=(frame.shape[1], frame.shape[0]), colorfmt="bgr"
+            )
+            texture.blit_buffer(buf, colorfmt="bgr", bufferfmt="ubyte")
 
             self.image.texture = texture
 
@@ -82,12 +87,10 @@ class MainLayout(GridLayout):
         self.control = ControlPanel(self)
         self.add_widget(self.image)
         self.add_widget(self.control)
-        Clock.schedule_interval(self.update, 1/30)
-
+        Clock.schedule_interval(self.update, 1 / 30)
 
 
 class TestApp(App):
-
     def build(self):
         return MainLayout()
 
