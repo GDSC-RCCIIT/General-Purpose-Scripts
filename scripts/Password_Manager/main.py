@@ -5,26 +5,31 @@ from Crypto.Cipher import AES
 import hashlib
 import os
 
+
 def checkForFile():
-    path = 'master.dat' 
+    path = "master.dat"
     isExist = os.path.exists(path)
     return isExist
 
+
 def master_Encrypt(master):
-    passwd = bytes(master,'utf-8')
+    passwd = bytes(master, "utf-8")
     result = hashlib.md5(passwd)
     pasit = result.digest()
     return pasit
 
+
 def store_master(master):
-    file = open("master.dat","wb")
+    file = open("master.dat", "wb")
     crp_pass = master_Encrypt(master)
     file.write(crp_pass)
 
+
 def read_master():
-    file = open("master.dat","rb")
+    file = open("master.dat", "rb")
     data = file.read()
     return data
+
 
 def AutoGen(number):
     passwd = ""
@@ -42,14 +47,13 @@ def encrypt_file(message):
     IV = "This is an IV456"
 
     cipher = AES.new(key, mode, IV)
-    
 
     encrypt_message = cipher.encrypt(message)
     return encrypt_message
 
 
 def decrypt_file(code):
-    
+
     key = read_master()
     mode = AES.MODE_CBC
     IV = "This is an IV456"
@@ -60,7 +64,7 @@ def decrypt_file(code):
 
 
 def Add_Passwd(site, user, passwd):
-    file = open("data.dat", "ab") 
+    file = open("data.dat", "ab")
     enc_passwd = encrypt_file(passwd)
     enc_user = base64.b64encode(user.encode("utf-8"))
     enc_site = base64.b64encode(site.encode("utf-8"))
@@ -69,7 +73,7 @@ def Add_Passwd(site, user, passwd):
 
 
 def Print_Passwd(site):
-    file = open("data.dat", "rb") 
+    file = open("data.dat", "rb")
     try:
         while True:
             x = pickle.load(file)
@@ -88,6 +92,7 @@ def Print_Passwd(site):
                 return user, passwd
     except:
         pass
+
 
 def main():
     while True:
