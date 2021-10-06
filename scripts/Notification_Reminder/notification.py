@@ -1,11 +1,15 @@
 import time
 from plyer import notification
 
+msg = input("Please enter the reminder message: ")
+sleep_time = int(input("Enter time after which you want to be remineded: "))
+timer = int(input("Enter the interval time: "))
+
 while True:
     notification.notify(
         title="Hey there!",
-        message="This is a pop-up reminder, take a break. Bye!",
+        message=msg,
         # app_icon = "<path of the icon-image>",
-        timeout=10,
+        timeout=timer,
     )
-    time.sleep(1500)  # time is seconds
+    time.sleep(sleep_time)  # time is seconds
