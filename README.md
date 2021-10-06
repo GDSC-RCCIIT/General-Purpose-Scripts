@@ -41,6 +41,7 @@ Covid Tracker | script which tracks the number of cases, deaths and recovered ca
 | Email Sender | Automates Email Process | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Email-Sender) |
 | Email-Phone-Extractor | Extracts email addresses and phone number from clipboard or a text file and stores them as separate csvs | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/email_phone_extractor) |
 | File Organizer | Organize your Files | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/File%20Organizer) |
+| Handwriting Recognition Module | Detects hand and returns coordinate of various points on hand in a live stream | [Find me here](https://github.com/Harshit-2000/General-Purpose-Scripts/tree/main/scripts/HandDetectionModule)
 | Image Compressor | Script compress Images | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS%20Sender) |
 | JSON to xlsx converter | Script to convert json to xlsx | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Json-xlsx) |
 | LinkedIn Job Scraper | Scrap Jobs listed in LinkedIn & saves them in `.csv` file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/LinkedIn-Job-Scraper) |
