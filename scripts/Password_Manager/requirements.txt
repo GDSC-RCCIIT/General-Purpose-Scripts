@@ -1,0 +1,2 @@
+black==19.10b0
+cryptography @ file:///tmp/build/80754af9/cryptography_1616769286105/work
