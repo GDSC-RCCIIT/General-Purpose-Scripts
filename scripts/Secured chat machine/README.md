@@ -6,9 +6,9 @@
 
 </h2>
 
-This is WebAPP which provides Secured Chat messaging feaure with Encryption ans decyption security tool. 
+This is WebAPP which provides Secured Chat messaging feaure with encoding and decoding security tool. 
 
-Base64 encryptions are scheme used in encryptions and decryption
+Base64 is a encoding are scheme used in encoding and decoding
 
 
 ## __ABOUT__
