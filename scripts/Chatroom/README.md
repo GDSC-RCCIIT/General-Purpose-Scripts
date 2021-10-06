@@ -13,5 +13,6 @@ Both the server and client script can then be run
    
    <h3>Example</h3>
      
-     python chat_server.py 192.168.55.13 8081
-     python client.py 192.168.55.13 8081
+  python chat_server.py 192.168.55.13 8081 <br>
+     
+  python client.py 192.168.55.13 8081
