@@ -30,10 +30,9 @@ Once you are done working on your script edit this `README.md` file and add the 
 2| AudioBook                 | Converts PDF-to-speech                                                       | [Find me here](https:github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AudioBook)            |
 3| Automatic Screen Recorder | script to record the laptop screen automatically                             | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/133)                             |
 4|Ceaser Cipher | script to encode and decode | [Find me here](https://github.com/st0rm2/General-Purpose-Scripts/tree/main/scripts/Ceaser%20Cipher)
-Check-System-Usage         | Checks free space percentage and average CPU usage                                                       | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Check-System-Usage)         |
 5|Covid Tracker | script which tracks the number of cases, deaths and recovered cases of covid patients| [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Covid-Tracker)
-6| CP Template Maker | Organizes and creates templates for cp contests | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CpTemplate) |
-7| Check-System-Usage | Checks free space percentage and average CPU usage | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Check-System-Usage) |
+6| CP Template Maker | Organizes and creates templates for cp contests | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CpTemplate) 
+|7| Check-System-Usage | Checks free space percentage and average CPU usage | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Check-System-Usage) |
 8| Command line chart tool | script to make fast pie charts from command line | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CLI_pie-chart-maker) |
 9| CryptoCurrency | Fetches cryptocurrency data and stores them in a .csv file | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CryptoCurrency) |
 10| Currency Converter | Convert currencies on realtime using a beautiful tkinter GUI | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Currency-Converter) |
