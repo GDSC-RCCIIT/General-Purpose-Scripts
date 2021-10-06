@@ -1,6 +1,6 @@
 ## Excel to PDF Converter
 
-Description: This Python script converts all `.csv`/Excel sheets into PDF files.
+<h4>Description:</h4> This Python script converts all `.csv`/Excel sheets into PDF files.
 
 <br>
 
