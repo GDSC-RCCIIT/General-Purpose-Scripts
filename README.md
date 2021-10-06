@@ -23,6 +23,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 
 ## Available Scripts in our Repository
 
+
 | Script Name               | Script Description                                                           | Link                                                                                                        |
 | ------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Amazon-Price-Alert        | Send a Email to the user when the price of product goes down below threshold | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/amazon-price-alert) |
