@@ -1,0 +1,3 @@
+pytesseract Tesseract  4.1.1
+numpy  1.21.2
+PIL 1.1. 7
