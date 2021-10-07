@@ -220,5 +220,4 @@ if [ $ans == 'Y' ] || [ $ans == 'y' ]; then
 
 fi
 echo -e "$S"
-echo -e "\n \t\t\t\t\tProject By - Candida, Gini, Lizel "
-echo -e "$S"
+
