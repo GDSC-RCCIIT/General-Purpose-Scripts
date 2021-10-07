@@ -20,12 +20,10 @@ redirect = "127.0.0.1"
 
 # websites That you want to block
 website_list = []
-with open('websites.csv', 'r') as csvfile:
+with open("websites.csv", "r") as csvfile:
     csvreader = csv.reader(csvfile)
     for row in csvreader:
         website_list.append(row)
-
-
 
 
 # time of your work
