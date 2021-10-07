@@ -70,5 +70,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 44| QR_SCANNER | script which Decode QR code | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR_CODE_SCANNER) |
 45| VideoCam | Takes pictures and records vidoes using your webcam | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/VideoCam) |
 46| Notification Reminder | Script to create popup notification | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Notification_Reminder)
+47| Website Blocker | Cross-Platform website blocker | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/website-blocker)
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
