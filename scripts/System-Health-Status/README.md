@@ -32,7 +32,7 @@ filesystem size.
 
 <p align="center">
   <br>
-  <kbd><img src="/System-Health-Status/images/Output.png"></kbd>
+  <kbd><img src="/scripts/System-Health-Status/images/Output.png"></kbd>
 </p>
 
   
