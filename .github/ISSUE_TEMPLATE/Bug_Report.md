@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 
-## Create a report to help us improve our scripts
+
 
 
 ### Mention the script affected by the bug
