@@ -37,4 +37,8 @@ and doesn't take up much room.
   <kbd><img src="/scripts/System-Health-Status/images/output.png"></kbd>
 </p>
 
-  
+ ## REFERENCES
+ 
+ https://github.com/SimplyLinuxFAQ/health-check-script/
+ https://www.tecmint.com/using-shell-script-to-automate-linux-system-maintenance-tasks/
+ https://arief-jr.blogspot.com/2016/01/shell-script-for-check-linux-system_19.html
