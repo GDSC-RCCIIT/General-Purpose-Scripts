@@ -3,13 +3,13 @@ import nsetools
 from datetime import datetime as dt
 
 
-def print_header(header):
+def display_header(header):
     print("----------------------------------------------")
     print(header.center(40))
     print("----------------------------------------------")
 
 
-def print_stocks(stock_dict):
+def display_stocks(stock_dict):
 
     headers = ["Sl.", "SYMBOL", "CHANGE %"]
     stocks = [
@@ -28,10 +28,10 @@ def get_top_stocks():
 
     date = dt.now()
 
-    print_header("TOP GAINERS")
-    print_stocks(gainers)
-    print_header("TOP LOSERS")
-    print_stocks(losers)
+    display_header("TOP GAINERS")
+    display_stocks(gainers)
+    display_header("TOP LOSERS")
+    display_stocks(losers)
 
     print("\nAs of", date.strftime("%H:%M:%S %b %d %Y"))
 
