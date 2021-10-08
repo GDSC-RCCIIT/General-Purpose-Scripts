@@ -1,5 +1,2 @@
-Requirements
-For this script to run you need to have psutil and plyer packages installed
-
 plyer==2.0.0
 psutil==5.8.0
