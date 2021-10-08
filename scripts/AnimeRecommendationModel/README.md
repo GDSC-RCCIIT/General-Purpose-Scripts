@@ -9,6 +9,6 @@ There are 2 python scripts for 2 different logic implementation in this director
 **NOTE**: On one hand, the 1st model is very accurate with the results it provides while on the other hand, the 2nd model is very fast but a bit inaccurate.
 
 ## Before you start
-Download ```rating.csv``` from [Kaggle](https://www.kaggle.com/CooperUnion/anime-recommendations-database?select=rating.csv) and put it in your working directory. Its too large to add to the repository.
+Download ```rating.csv``` from [Kaggle](https://www.kaggle.com/CooperUnion/anime-recommendations-database?select=rating.csv) and put it in your working directory. Its too large to add to the repository. The other required datasets have been provided in the directory itself.
 
 ### Visit my [Github Profile](https://github.com/Anubhab2002) for more interesting projects and do't forget to follow me!
