@@ -75,5 +75,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 49| AI Workout Tracker | AI based workout tracker that is able to detect body landmarks and present you the results | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AI%20Workout%20Tracker)
 50| Volume Control OpenCV | Simple GUI for users to control volume of control systems with their hands via handtracking | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/volume_control_opencv)
 51| Password Manager | AES encrypted password manager to keep all your password safe | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Password_Manager) |
+52| Battery Alert    | Notifies after threshold unit of battery change               | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/scripts/Battery-Notifier)  |
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
