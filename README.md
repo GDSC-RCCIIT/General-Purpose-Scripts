@@ -27,20 +27,20 @@ Once you are done working on your script edit this `README.md` file and add the 
 | ------------ | ------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 1| Amazon-Price-Alert        | Send a Email to the user when the price of product goes down below threshold | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/amazon-price-alert) |
 2| AudioBook                 | Converts PDF-to-speech                                                       | [Find me here](https:github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AudioBook)            |
-3| Automatic Screen Recorder | script to record the laptop screen automatically                             | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/133)                             |
-4|Ceaser Cipher | script to encode and decode | [Find me here](https://github.com/st0rm2/General-Purpose-Scripts/tree/main/scripts/Ceaser%20Cipher)
+3| Automatic Screen Recorder | script to record the laptop screen automatically                             | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Automatic%20screen%20recorder)                             |
+4|Ceaser Cipher | script to encode and decode | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Ceaser%20Cipher)
 5|Covid Tracker | script which tracks the number of cases, deaths and recovered cases of covid patients| [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Covid-Tracker)
 6| CP Template Maker | Organizes and creates templates for cp contests | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CpTemplate) 
 7| Check-System-Usage | Checks free space percentage and average CPU usage | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Check-System-Usage) |
-8| Command line chart tool | script to make fast pie charts from command line | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CLI_pie-chart-maker) |
+8| Command line chart tool | script to make fast pie charts from command line | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pie-chart-maker) |
 9| CryptoCurrency | Fetches cryptocurrency data and stores them in a .csv file | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/CryptoCurrency) |
 10| Currency Converter | Convert currencies on realtime using a beautiful tkinter GUI | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Currency-Converter) |
-11| Doc to PDF Converter | Converts docx file(s) to PDF files | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Doc%20To%20PDF%20Converter) |
+11| Doc to PDF Converter | Converts docx file(s) to PDF files | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Docx%20To%20PDF%20Converter) |
 12| Email Sender | Automates Email Process | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Email-Sender) |
 13| Email-Phone-Extractor | Extracts email addresses and phone number from clipboard or a text file and stores them as separate csvs | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/email_phone_extractor) |
 14| File Organizer | Organize your Files | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/File%20Organizer) |
-15| Handwriting Recognition Module | Detects hand and returns coordinate of various points on hand in a live stream | [Find me here](https://github.com/Harshit-2000/General-Purpose-Scripts/tree/main/scripts/HandDetectionModule)
-16| Image Compressor | Script compress Images | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS%20Sender) |
+15| Handwriting Recognition Module | Detects hand and returns coordinate of various points on hand in a live stream | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/HandDetectionModule)
+16| Image Compressor | Script compress Images | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image-compressor) |
 17| JSON to xlsx converter | Script to convert json to xlsx | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Json-xlsx) |
 18| LinkedIn Job Scraper | Scrap Jobs listed in LinkedIn & saves them in `.csv` file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/LinkedIn-Job-Scraper) |
 19| Meaning Finder | Find Word's Meaning.. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Meaning%20Finder) |
@@ -50,7 +50,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 23| OCR Script Scanner | Extracts text from image file by scanning it | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/OCR-Script/scripts/OCR_Scanner) |
 24| OSINT Tool | Help Find OSINT info about phone number & IP address | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/OSINT_TOOLS) |
 25| PDF_Merger_Script | Script to merge pdf | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)
-26| PDF_Merger_Script | Script to merge pdf | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger) |
 27| Password Leak Checker | How many times your password has been breached | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PasswordStrengthChecker)
 28| Public IP Address | Prints your public IP address | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Public%20IP%20Address) |
 29| QR Code Generator | It can generate QR Code of URLs | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR%20Code%20Generator) |
@@ -65,12 +64,16 @@ Once you are done working on your script edit this `README.md` file and add the 
 38| Twitter-Scraper | Scrape Tweets of a user-inputted Hashtag | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Twitter-Scraper) |
 39| Vaccination Centre Locator | Provides top 10 nearest Vaccination Centres data based on location in India | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Vaccination-Centre-Locator) |
 40| Weather_Forecast_Script | Script to forecast weather of a city | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/weather_forecast) |
-41| Word Cloud Generator | Converts text entered into a Word Cloud | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/weather_forecast) |
+41| Word Cloud Generator | Converts text entered into a Word Cloud | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Word-Cloud-Generator) |
 42| Yaml-Json-Generator | Generate JSON files from YAML files in a directory | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator) |
 43| Youtube-Playlist-Duration | Calculates the total duration of a Youtube Playlist | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Youtube-Playlist-Duration) |
 44| QR_SCANNER | script which Decode QR code | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR_CODE_SCANNER) |
-45| Password Manager | AES encrypted password manager to keep all your password safe | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Password_Manager) |
-|
-
+45| VideoCam | Takes pictures and records vidoes using your webcam | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/VideoCam) |
+46| Notification Reminder | Script to create popup notification | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Notification_Reminder)
+47| Website Blocker | Cross-Platform website blocker | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/website-blocker)
+48| Anime Recommendation Model| Recommed 10 animes to watch next based on an anime you loved | [Find me here](https://github.com/Anubhab2002/General-Purpose-Scripts/tree/main/scripts/AnimeRecommendationModel) |
+49| AI Workout Tracker | AI based workout tracker that is able to detect body landmarks and present you the results | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AI%20Workout%20Tracker)
+50| Volume Control OpenCV | Simple GUI for users to control volume of control systems with their hands via handtracking | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/volume_control_opencv)
+51| Password Manager | AES encrypted password manager to keep all your password safe | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Password_Manager) |
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
