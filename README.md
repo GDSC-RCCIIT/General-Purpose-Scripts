@@ -73,5 +73,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 47| Website Blocker | Cross-Platform website blocker | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/website-blocker)
 48| Anime Recommendation Model| Recommed 10 animes to watch next based on an anime you loved | [Find me here](https://github.com/Anubhab2002/General-Purpose-Scripts/tree/main/scripts/AnimeRecommendationModel) |
 49| AI Workout Tracker | AI based workout tracker that is able to detect body landmarks and present you the results | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AI%20Workout%20Tracker)
+50| Volume Control OpenCV | Simple GUI for users to control volume of control systems with their hands via handtracking | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/volume_control_opencv)
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
