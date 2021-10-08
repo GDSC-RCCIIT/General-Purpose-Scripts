@@ -18,6 +18,10 @@ Suppose you want a notification such that after the decrement with every 5 % You
   ```bash
   cd General-Purpose-Scripts\scripts\Battery-Notifier
   ```
+* Install the dependencies 
+  ```
+  pip install -r requirements.txt
+  ```
 * Run using Python
   ```bash
   python Batttery_notifier.py
