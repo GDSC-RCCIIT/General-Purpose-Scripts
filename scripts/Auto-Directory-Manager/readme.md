@@ -16,10 +16,9 @@ A Python script to Automatically move folder from one directory to another.
   ```
 * Navigate inside the ```scripts\auto-directory-manager``` directory.
   ```bash
-  cd General-Purpose-Scripts\scripts\amazon-price-alert
+  cd General-Purpose-Scripts\scripts\Auto-Directory-Manager
   ```
 * Run using Python
   ```bash
-  pip install -r requirements.txt
   python main.py
   ```
