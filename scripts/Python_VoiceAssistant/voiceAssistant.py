@@ -68,16 +68,7 @@ def runPy():
         info=wikipedia.summary(key)
         print(info)
         speak(info)
-    elif 'latest news' in command:
-        new=pynews --news-stories     #latest news (new news)
-        print(new)
-        speak(new)
-        
-      
-    elif 'trending news' in command:
-        top=pynews --top-stories      #top news (trending news)
-        print(top)
-        speak(top)
+
         
     elif 'open YouTube' in command:
         webbrowser.open("youtube.com")
