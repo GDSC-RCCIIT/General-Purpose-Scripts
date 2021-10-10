@@ -1,0 +1,4 @@
+Modules needed to be installed before running the code:
+
+Tkintertable(pip install tkintertable)
+pytest-timeit(pip install pytest-timeit)
