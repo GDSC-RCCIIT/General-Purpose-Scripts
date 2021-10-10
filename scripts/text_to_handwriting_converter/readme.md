@@ -1,12 +1,16 @@
-## Check-System-Usage
+## Text to Handwriting Converter
 
-![built by developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![python](https://img.shields.io/badge/language-Python-orange?style=for-the-badge)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=plasitc)](https://github.com/psf/black)
 
 ### About
 
 A Python3 script to automate text to handwriting.
+
+### Screenshot
+
+![Screenshot](https://user-images.githubusercontent.com/50899339/136686535-f717154f-8469-46eb-ab70-df545cf1c351.png)
+
 
 ### Setup
 
