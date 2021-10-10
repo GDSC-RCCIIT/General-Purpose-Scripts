@@ -76,5 +76,9 @@ Once you are done working on your script edit this `README.md` file and add the 
 50| Volume Control OpenCV | Simple GUI for users to control volume of control systems with their hands via handtracking | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/volume_control_opencv)
 51| Password Manager | AES encrypted password manager to keep all your password safe | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Password_Manager) |
 52| Battery Alert    | Notifies after threshold unit of battery change | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Battery-Notifier) |
+|53        | Secured Chat Machine | chat machine with base64 encoding and decoding security feature | [Find me here](https://github.com/Dr-blue-cyber/General-Purpose-Scripts/tree/master/scripts/Secured_chat_machine)
+---
+
+
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
