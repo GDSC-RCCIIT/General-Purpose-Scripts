@@ -1,4 +1,4 @@
 Modules needed to be installed before running the code:
 
-Tkintertable(pip install tkintertable)
-pytest-timeit(pip install pytest-timeit)
+Tkintertable(pip install tkintertable==1.3.3)
+pytest-timeit(pip install pytest-timeit==0.3.0)
