@@ -1,4 +1,4 @@
-**Developer:** [Jayanti Goswami]("https://github.com/Jayanti2919")
+**Developer:** [Jayanti Goswami](https://github.com/Jayanti2919)
 
 # Application of the Project
 
