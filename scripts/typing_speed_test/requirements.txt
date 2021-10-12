@@ -1,0 +1,2 @@
+tkintertable==1.3.3
+pytest-timeit==0.3.0
