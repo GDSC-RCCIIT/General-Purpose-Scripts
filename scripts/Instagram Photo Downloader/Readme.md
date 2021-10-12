@@ -1,4 +1,4 @@
-# To take the typing speed test,follow these steps:
+# To download a pic from Instagram, follow these steps:
 
 1. Clone the repository with `https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git`.
 2. Change your working directory to the directory of this script using: `cd General-Purpose-Scripts/scripts/Instagram Photo Downloader`.
