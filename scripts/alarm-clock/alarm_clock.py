@@ -7,7 +7,7 @@ from playsound import playsound
 # import pyobjus
 
 msg = "Wake Up!"  # your default remainder/alarm message
-audio_path = "/Users/aayush/Documents/Documents - Aayush’s MacBook Pro/songs/5 Five Laps To Go Day 3236.mp3"  # your default remainder/alarm audio
+audio_path = "./alarm-songs/ncs_high.mp3"  # your default remainder/alarm audio
 
 
 def show_notification(title_msg, message):
@@ -64,6 +64,12 @@ def set_alarm():
 
 
 if __name__ == "__main__":
+    isDefaultAudio = True
+    isDefault = input(
+        f"Do you want to change default audio from {audio_path}? (N/y) : "
+    )
+    if isDefault == "y":
+        audio_path = input("Provide audio path : ")
     while True:
         print("Menu : ")
         print("\t[1.] Set Timer")
@@ -81,6 +87,7 @@ if __name__ == "__main__":
         elif choice == 4:
             msg = input("Enter new message : ")
         elif choice == 5:
+            print("Thank you :)")
             break
         else:
             print("Invalid choice !")
