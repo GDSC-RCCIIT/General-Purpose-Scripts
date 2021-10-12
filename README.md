@@ -79,4 +79,5 @@ Once you are done working on your script edit this `README.md` file and add the 
 53| Text To Handwriting Converter    | Converts a text or a text file to handwritten images | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/text_to_handwriting_converter) |
 54| Typing Speed Tester    | Calculates the typing speed of users. | [Find me here](https://github.com/lovishprabhakar02/General-Purpose-Scripts/tree/main/scripts/typing_speed_test) |
 
+
 ### Good Luck and don't forget to have fun with Open Source 🚀
