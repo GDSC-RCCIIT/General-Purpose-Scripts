@@ -76,5 +76,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 50| Volume Control OpenCV | Simple GUI for users to control volume of control systems with their hands via handtracking | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/volume_control_opencv)
 51| Password Manager | AES encrypted password manager to keep all your password safe | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Password_Manager) |
 52| Battery Alert    | Notifies after threshold unit of battery change | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Battery-Notifier) |
+53| Text To Handwriting Converter    | Converts a text or a text file to handwritten images | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/text_to_handwriting_converter) |
 54| Typing Speed Tester    | Calculates the typing speed of users. | [Find me here](https://github.com/lovishprabhakar02/General-Purpose-Scripts/tree/main/scripts/typing_speed_test) |
+
 ### Good Luck and don't forget to have fun with Open Source 🚀
