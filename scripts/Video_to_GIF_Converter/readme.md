@@ -9,6 +9,15 @@
 A Python3 script to convert video to GIF.
 
 ### GIF Examples
+![mygif5](https://user-images.githubusercontent.com/50899339/136929374-94e8784f-102b-4225-ae29-0087930b7f35.gif)
+![mygif3](https://user-images.githubusercontent.com/50899339/136928157-bc6efc3b-8618-4f76-a3f4-edf747a4fcbc.gif)
+![mygif4](https://user-images.githubusercontent.com/50899339/136928164-14d5dd8f-636b-4d39-948a-d2ebda9e8e4c.gif)
+![mygif6](https://user-images.githubusercontent.com/50899339/136929902-39dcee65-1ac6-4e38-8f34-a1114a420dd4.gif)
+![mygif2](https://user-images.githubusercontent.com/50899339/136928102-7c44384f-ac50-4415-8794-48089fbad981.gif)
+![mygif1](https://user-images.githubusercontent.com/50899339/136928184-6c63d074-135b-4536-856b-06d0c566dbf0.gif)
+
+
+
 
 ### Setup
 
