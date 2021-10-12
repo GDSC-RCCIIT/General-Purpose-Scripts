@@ -3,7 +3,6 @@ import zipfile
 
 
 def backup(folder):
-    folder = os.path.abspath(folder)
 
     zip_name = os.path.basename(folder) + ".zip"
     destination = input("Enter the destination folder:\n")
@@ -11,19 +10,18 @@ def backup(folder):
     print(f"Creating file {zip_name}")
     backupzip = zipfile.ZipFile(f"{destination}\\{zip_name}", "w")
 
-    for _, dirname, files in os.walk(folder):
-        for folder in dirname:
-            backupzip.write(folder)
-
-        for file in files:
-            if file.endswith(".zip"):
-                continue
-            backupzip.write(file)
-        break
+    for files in os.listdir(folder):
+        if files.endswith(".zip"):
+            continue
+        backupzip.write(files)
+        if os.path.isdir(files):
+            for f in os.listdir(files):
+                backupzip.write(f"{files}\\{f}")
 
     backupzip.close()
     print("The zip file has been created in your destination folder.")
 
 
 source_folder = input("Enter the path of the source folder:\n")
+os.chdir(source_folder)
 backup(source_folder)
