@@ -1,6 +1,6 @@
 <h1 align="center"> Notification Remainder ⏰ </h1>
 
-<h2 align="right">
+<h2 align="center">
 
 ![python](https://forthebadge.com/images/badges/made-with-python.svg)
 
