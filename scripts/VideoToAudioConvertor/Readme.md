@@ -3,7 +3,7 @@
 1. Clone the repository with `https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git`.
 2. Change your working directory to the directory of this script using: `cd General-Purpose-Scripts/scripts/VideoToAudioConvertor`.
 3. Install the dependencies using `pip install -r requirements.txt`.
-4. Enter the URL of the photo you want to download in the inverted commas as shown in the screenshot:
+4. Enter the path of the video in the inverted commas as shown in the screenshot:
 
 ![image](https://user-images.githubusercontent.com/89595539/137136384-343b347b-cbc0-478a-a21b-569d956b323d.png)
 
