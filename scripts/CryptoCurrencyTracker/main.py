@@ -6,6 +6,7 @@ import pandas as pd
 import requests
 
 c = 0
+# some coin names to be scraped. 
 CoinsNames = ['Bitcoin-USD', 'Ethereum-USD', 'HEX-USD', 'Cardano-USD', 'Tether-USD']
 
 while(True):
@@ -13,6 +14,7 @@ while(True):
     current_time = str(now.strftime("%H:%M:%S") +' '+ str(date.today())) # this is just to get the time at the time of web scraping
     print(f'At time : {current_time} IST')
 
+    #url to be scraped. 
     url = 'https://finance.yahoo.com/cryptocurrencies/'
     response = requests.get(url, headers={'Referer' : 'https://finance.yahoo.com/'})
     
@@ -26,11 +28,11 @@ while(True):
     headings_list = headings_list[2:10]
     headings_list.insert(0, 'Date & Time')
 
+    #path for the csv files, which needs to be changed as per the user. 
     path = 'D:\hacktoberfest\General-Purpose-Scripts\scripts\CryptoCurrencyTracker\CoinsData'
     datum = {}
     if(c == 0):
         datum = {}
-       
         c += 1
 
     else: 
@@ -39,9 +41,7 @@ while(True):
                 df = pd.read_csv(path+'\\'+coin+'.csv')
             except:
                 df = pd.DataFrame()
-            #print('here')
-            #print(df.columns)
-            
+    
             datum[coin] = df
 
     for x in range(1,6):
@@ -61,16 +61,13 @@ while(True):
         else:
             temp = pd.DataFrame([row], columns = headings_list)
             print(row)
-            #temp = temp.set_index('Date & Time')
             datum[name] = pd.concat([datum[name], temp])
-            #datum[name][current_time] = [row[1:]]
-            
 
-    print('last here is: ')
-    print(datum['Bitcoin-USD'].columns)
+    # To write to the csv files. 
     for eachone in datum.keys():
         newpath = path+'\\'+eachone+'.csv'
         datum[eachone].to_csv(path+'\\'+eachone+'.csv', index = False)
     
+    # to delete the response and creae a new instance 
     del response
     time.sleep(600)
