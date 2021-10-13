@@ -82,5 +82,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 56| Auto Backup       | Backups the folder given by the user in the input. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Auto-Backup) |
 57| Metadata Extractor    | Extracts Meta Data of Image | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image-metadata)|
 58| alarm-clock      | Console based Alarm clock and remainder which plays sound and shows message as user directed | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/alarm-clock) |
+59| CryptoCurrencyTracker | Gets the values of the cryptocurrency data from the given url and stores updates them in a .csv file continiously for every 10 minutes | [Find me Here](https://github.com/Tanuj2552/General-Purpose-Scripts/tree/main/scripts/CryptoCurrencyTracker) |
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
