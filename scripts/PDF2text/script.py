@@ -5,7 +5,7 @@ import pdftotext
 # pdf_path = input("Enter the path of the pdf file : ")
 pdf_path='sample.pdf'
 
-assert os.path.exists(pdf_path), "this pdf file doesn't exist"
+# assert os.path.exists(pdf_path), "this pdf file doesn't exist"
 
 with open(pdf_path, 'rb') as f_r:
     pdf_pages = pdftotext.PDF(f_r)
