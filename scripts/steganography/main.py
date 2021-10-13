@@ -145,22 +145,22 @@ def main():
 	img = Image.open(file_name)
 
 	if op in ("-e", "encode"):
-        message = input("[*]Enter message:")
-        print(">>>encoding....")
+		message = input("[*]Enter message:")
+		print(">>>encoding....")
 
         #check if message can be injected
-        if get_pixel_count(img) < len(message):
-            print("[*]Message is too large to inject in the given image!!!")
-            return
+		if get_pixel_count(img) < len(message):
+			print("[*]Message is too large to inject in the given image!!!")
+			return
 
-        img_mode = img.mode
+		img_mode = img.mode
 
-        if img_mode != "RGB":
-            img = convert_to_RGB(img)
-        new_img = img.copy()
+		if img_mode != "RGB":
+			img = convert_to_RGB(img)
+		new_img = img.copy()
 
-        encode_image(new_img, message, img.filename)
-        print("[*]Encoded Successfully!")
+		encode_image(new_img, message, img.filename)
+		print("[*]Encoded Successfully!")
 
 	elif op in ("-d", "decode"):
 		print(">>>decoding....")
