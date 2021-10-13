@@ -1,0 +1,9 @@
+colorama==0.4.4
+commonmark==0.9.1
+Pillow==8.1.0
+pycryptodome==3.9.9
+pyfiglet==0.8.post1
+Pygments==2.7.4
+rich==9.10.0
+termcolor==1.1.0
+typing-extensions==3.7.4.3
