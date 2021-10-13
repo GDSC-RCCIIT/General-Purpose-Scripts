@@ -28,6 +28,7 @@ A Python script to extract text from pdf file.
 ### Working Screenshot
 
 => On execution, script prompts to enter the pdf file path and will extract all text from the file and diplay it thereafter!
+<hr>
 <img src="images/screenshot.png">
 
 <hr>
