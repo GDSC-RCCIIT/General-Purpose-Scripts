@@ -1,24 +1,25 @@
-## About :
+<h1 align="center"> Notification Remainder ⏰ </h1>
 
----
+<h2 align="center">
 
-- This script creates a pop-up reminder notification after the given duration with our message..
+![python](https://forthebadge.com/images/badges/made-with-python.svg)
 
----
+</h2>
+This script creates a pop-up reminder notification after the given duration with our message
 
-## How to use it :
+## __ABOUT__
+**Notification-Remainder** is a python application that helps user to create custom remainder send desktop-notification as timer ends. It can show specific message given by user when notification pops up.
 
----
+## __SETUP__
+- To install dependencies
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-- Just run the exe file it will automatically create reminder with specified time.
-- Also you can manually run .py file using `python notification.py` in the project folder.
+- Run the program by entering the following command:
 
----
+    ```bash
+    python3 notification.py
+    ```
 
-## How to use it in background :
-
----
-
-- Use `pythonw notification.py`
-
----
+Now you are done with it. Get started!
