@@ -86,5 +86,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 59| Voice-to-text Converter | Transcribes speech from inputted audio file using PocketSphinx. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/voice_to_text) |
 60| Steganography | Text Encryption and Decryption to and from an Image | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/steganography) |
 61| Instagram Photo Downloader    | Downloads photos from Instagram. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Instagram%20Photo%20Downloader) |
+62| Threaded-Port-Scanner | Tool for scanning open port of a Host | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Threaded-Port-Scanner) |
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
