@@ -2,10 +2,10 @@ import moviepy.editor
 from moviepy.video.VideoClip import VideoClip
 
 # to select the video file:
-
+a = input("Enter the path of the video:\n")
 video = moviepy.editor.VideoFileClip(
-    " "
-)  # Add path of your your video in between the inverted commas.
+    a
+)  # Add path of your video in the terminal
 
 # to create the audio file:
 
