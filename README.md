@@ -50,42 +50,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 23| OCR Script Scanner | Extracts text from image file by scanning it | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/OCR_Scanner) |
 24| OSINT Tool | Help Find OSINT info about phone number & IP address | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/OSINT_TOOLS) |
 25| PDF_Merger_Script | Script to merge pdf | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/pdf_merger)
-<<<<<<< HEAD
-27| Password Leak Checker | How many times your password has been breached | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PasswordStrengthChecker)
-28| Public IP Address | Prints your public IP address | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Public%20IP%20Address) |
-29| QR Code Generator | It can generate QR Code of URLs | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR%20Code%20Generator) |
-30| Reddit Image Scrapper | Downloads Reddit Images according to given SubReddit without using API | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Reddit-Image-Scrapper) |
-31| SMS Sender | Easy CLI interface for users looking to test their SMS campaign integration with Kaleyra | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS%20Sender) |
-32| Shorty | Shorty uses python code to shorten URLs on the go | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Shorty) |
-33| Sketch image converter | script which convert a colored photo into sketch photo | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_converter) |
-34| Song-Lyrics-Fetcher | Fetch lyrics of a song and store in a text file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Song-Lyrics-Fetcher) |
-35| Spectrogram | script to visualize wav files using spectrogram | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/spectrogram) |
-36| Terminal Video Editor | Edit Small Videos (less than : 10 mins) directly from your Terminal | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Terminal-Video-Editor) |
-37| Text Grammar Corrector | Corrects Grammar of text | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Text%20Grammar%20Corrector)
-38| Twitter-Scraper | Scrape Tweets of a user-inputted Hashtag | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Twitter-Scraper) |
-39| Vaccination Centre Locator | Provides top 10 nearest Vaccination Centres data based on location in India | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Vaccination-Centre-Locator) |
-40| Weather_Forecast_Script | Script to forecast weather of a city | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/weather_forecast) |
-41| Word Cloud Generator | Converts text entered into a Word Cloud | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Word-Cloud-Generator) |
-42| Yaml-Json-Generator | Generate JSON files from YAML files in a directory | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Yaml-Json-Generator) |
-43| Youtube-Playlist-Duration | Calculates the total duration of a Youtube Playlist | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Youtube-Playlist-Duration) |
-44| QR_SCANNER | script which Decode QR code | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR_CODE_SCANNER) |
-45| VideoCam | Takes pictures and records vidoes using your webcam | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/VideoCam) |
-46| Notification Reminder | Script to create popup notification | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Notification_Reminder)
-47| Website Blocker | Cross-Platform website blocker | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/website-blocker)
-48| Anime Recommendation Model| Recommed 10 animes to watch next based on an anime you loved | [Find me here](https://github.com/Anubhab2002/General-Purpose-Scripts/tree/main/scripts/AnimeRecommendationModel) |
-49| AI Workout Tracker | AI based workout tracker that is able to detect body landmarks and present you the results | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/AI%20Workout%20Tracker)
-50| Volume Control OpenCV | Simple GUI for users to control volume of control systems with their hands via handtracking | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/volume_control_opencv)
-51| Password Manager | AES encrypted password manager to keep all your password safe | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Password_Manager) |
-52| Battery Alert    | Notifies after threshold unit of battery change | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Battery-Notifier) |
-53| Text To Handwriting Converter    | Converts a text or a text file to handwritten images | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/text_to_handwriting_converter) |
-54| Typing Speed Tester    | Calculates the typing speed of users. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/typing_speed_test) |
-55| Video To GIF Converter    | Converts video to GIF | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Video_to_GIF_Converter) |
-56| Auto Backup       | Backups the folder given by the user in the input. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Auto-Backup) |
-57| Metadata Extractor    | Extracts Meta Data of Image | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image-metadata)|
-58| alarm-clock      | Console based Alarm clock and remainder which plays sound and shows message as user directed | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/alarm-clock) |
-59| CryptoCurrencyTracker | Gets the values of the cryptocurrency data from the given url and stores updates them in a .csv file continiously for every 10 minutes | [Find me Here](https://github.com/Tanuj2552/General-Purpose-Scripts/tree/main/scripts/CryptoCurrencyTracker) |
-60| PDF2text | Extracts text from a pdf file and display it to the user. | [Find me Here](https://github.com/pdesai878/General-Purpose-Scripts/blob/c33e15cb799a9e2e29dbbeff16948aa7b04bf25e/scripts/PDF2text/) |
-=======
 26| Password Leak Checker | How many times your password has been breached | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PasswordStrengthChecker)
 27| Public IP Address | Prints your public IP address | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Public%20IP%20Address) |
 28| QR Code Generator | It can generate QR Code of URLs | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR%20Code%20Generator) |
@@ -122,6 +86,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 59| Voice-to-text Converter | Transcribes speech from inputted audio file using PocketSphinx. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/voice_to_text) |
 60| Steganography | Text Encryption and Decryption to and from an Image | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/steganography) |
 61| Instagram Photo Downloader    | Downloads photos from Instagram. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Instagram%20Photo%20Downloader) |
->>>>>>> upstream/main
+62| PDF2text | Extracts text from a pdf file and display it to the user. | [Find me Here](https://github.com/pdesai878/General-Purpose-Scripts/blob/c33e15cb799a9e2e29dbbeff16948aa7b04bf25e/scripts/PDF2text/) |
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
