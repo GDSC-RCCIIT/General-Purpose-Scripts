@@ -10,6 +10,15 @@ A python script to convert any pdf to docx file.
 
 ### Installation
     pip install pywin32
+
+## Steps to follow:
+- install the dependencies as shown above
+- make sure that the script for converting pdf to docx and the pdf you wish to convert are in the same folder.
+- run the script 
+    ```
+    python3 insta_pic_downloader.py
+    ```
+- the docx file for the same would be created in the same folder.
     
 ## Script
 [Script](https://github.com/pragyakhanna11/General-Purpose-Scripts/blob/main/scripts/PDF%20to%20Docx%20Converter/script.py)
