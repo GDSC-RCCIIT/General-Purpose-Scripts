@@ -21,10 +21,10 @@ Analyzes and evaluate the general mood of a given paragraph from a text file:
 
 1. Create your text file.
 2. open `app.py` and replace file name with your create file.
-![step](https://github.com/devpladinc/General-Purpose-Scripts/blob/main/scripts/Mood%20Sentiment%20Analyzer/images/step1.png)
+![step](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/blob/main/scripts/Mood%20Sentiment%20Analyzer/images/step1.png)
 3. `python app.py`
 4. View result on `ms-analyzer.log`
-![step](https://github.com/devpladinc/General-Purpose-Scripts/blob/main/scripts/Mood%20Sentiment%20Analyzer/images/step4.png)
+![step](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/blob/main/scripts/Mood%20Sentiment%20Analyzer/images/step4.png)
 
 _**Installing**_
 
