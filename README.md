@@ -88,5 +88,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 61| Instagram Photo Downloader    | Downloads photos from Instagram. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Instagram%20Photo%20Downloader) |
 62| PDF2text | Extracts text from a pdf file and display it to the user. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PDF2text/) |
 63| Amazon Product Availability Tracker | Track availability of amazon product | [Find me Here]()
+64| Spelling and Grammer Check | Identify grammatical and spelling error | [Find me Here]()
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
