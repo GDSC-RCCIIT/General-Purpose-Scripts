@@ -88,7 +88,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 61| Instagram Photo Downloader    | Downloads photos from Instagram. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Instagram%20Photo%20Downloader) |
 62| PDF2text | Extracts text from a pdf file and display it to the user. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PDF2text/) |
 63| Image to PDF converter| Converts all the images which is inside a dir to a PDF file | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_to_pdf) |
-64| Mood Sentiment Analyzer| Evaluate given texts/sentences general mood. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Mood\ Sentiment\ Analyzer) |
-
+64| Mood Sentiment Analyzer| Evaluate given texts/sentences general mood. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Mood%20Sentiment%20Analyzer)
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
