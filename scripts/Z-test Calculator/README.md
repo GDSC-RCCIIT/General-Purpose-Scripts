@@ -18,3 +18,5 @@ To run this script, perform the following:
 3. Run the command: `streamlit run ztest-cal.py` to run the script on the local machine.
 
 
+## Screenshots
+[Sample 1]('scripts/Z-test Calculator/images/Sample 1.png')
