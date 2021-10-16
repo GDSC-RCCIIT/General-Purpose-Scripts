@@ -18,4 +18,4 @@
 
 
 # Screenshots
-<img src="https://imgur.com/a/cE1Aqkff"/>
+![Imgur Image](https://i.imgur.com/UKmDK5e.png)
