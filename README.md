@@ -89,5 +89,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 62| PDF2text | Extracts text from a pdf file and display it to the user. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PDF2text/) |
 63| Image to PDF converter| Converts all the images which is inside a dir to a PDF file | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_to_pdf) |
 64| PDF to Docx Converter    | Converts PDF file to Docx | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PDF%20to%20Docx%20Converter) |
+65| Threaded Port Scanner    | Tool for scanning open ports on a host | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Threaded_Port_Scanner) |
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
