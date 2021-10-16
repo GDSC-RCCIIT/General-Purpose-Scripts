@@ -19,5 +19,5 @@ To run this script, perform the following:
 
 
 ## Screenshots
-![Sample 1]('https://raw.githubusercontent.com/Rahuls66/General-Purpose-Scripts/zcal/scripts/Z-test%20Calculator/images/Sample%201.png')
-![Sample 2]('https://raw.githubusercontent.com/Rahuls66/General-Purpose-Scripts/zcal/scripts/Z-test%20Calculator/images/Sample%202.png')
+![Sample 1]('scripts/Z-test Calculator/images/Sample 2.png')
+![Sample 2]('scripts/Z-test Calculator/images/Sample 2.png')
