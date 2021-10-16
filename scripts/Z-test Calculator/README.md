@@ -19,5 +19,6 @@ To run this script, perform the following:
 
 
 ## Screenshots
-![Sample 1]('scripts/Z-test Calculator/images/Sample 2.png')
-![Sample 2]('scripts/Z-test Calculator/images/Sample 2.png')
+![Sample 1](https://user-images.githubusercontent.com/43356237/137585981-4592aa15-1989-4b41-870d-a220e6ade8ac.png)
+![Sample 2](https://user-images.githubusercontent.com/43356237/137585998-de2723e2-4bb2-4641-b773-0d81130ea0be.png)
+
