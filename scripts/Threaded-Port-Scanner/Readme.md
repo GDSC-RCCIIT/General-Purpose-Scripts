@@ -13,7 +13,7 @@ A Python script to scan Open Port on a particular Host
   ```bash
   git clone https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Threaded_Port_Scanner/
   ```
-* Navigate inside the ```Threaded_Port_Scanner/``` directory.
+* Navigate inside the ```Threaded-Port-Scanner/``` directory.
   ```bash
   ls  
   ```
@@ -32,7 +32,7 @@ A Python script to scan Open Port on a particular Host
   ```bash
   git clone https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Threaded_Port_Scanner/
   ```
-* Navigate inside the ```Threaded_Port_Scanner/``` directory.
+* Navigate inside the ```Threaded-Port-Scanner/``` directory.
   ```bash
   ls
   ```
