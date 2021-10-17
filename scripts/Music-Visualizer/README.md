@@ -4,7 +4,7 @@
 
 ---
 
-- This script organize all types of files
+- A music visualzier written in python.
 
 ---
 
