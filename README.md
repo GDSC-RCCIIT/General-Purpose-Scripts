@@ -92,6 +92,5 @@ Once you are done working on your script edit this `README.md` file and add the 
 65| Threaded Port Scanner    | Tool for scanning open ports on a host | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Threaded-Port-Scanner) |
 66| Z-test Calculator    | Calculates Z-statistic Value for the given set of Numerical Data and Population Mean | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/zcal/scripts/Z-test%20Calculator) |
 67| Music Visualizer    | Creates a visualization of any music file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/janinirami/scripts/Music-Visualizer) |
-68| Mood Sentiment Analyzer| Evaluate given texts/sentences general mood. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Mood%20Sentiment%20Analyzer)
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
