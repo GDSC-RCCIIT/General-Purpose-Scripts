@@ -87,11 +87,11 @@ def decrypt(message):
 
 # Hard-coded driver function to run the program
 def main():
-	message = "HELLO WORLD"
+	message = input("Enter a text to convert it into Morse Code :")
 	result = encrypt(message.upper())
-	print (result)
+	print ("Resultant morse code :"+result)
 
-	message = ".... . .-.. .-.. ---  .-- --- .-. .-.. -.."
+	message = input("Enter a Morse Code :")
 	result = decrypt(message)
 	print (result)
 
