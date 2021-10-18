@@ -65,7 +65,7 @@ def encrypt(message):
            # Looks up the dictionary and adds the
            # correspponding morse code
            # along with a space to separate
-	   # morse codes for different characters
+	   # morse codes for different character
 	   cipher += MORSE_CODE_DICT[letter] + " "
 	else:
 	   # 1 space indicates different characters
