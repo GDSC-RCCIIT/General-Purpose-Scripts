@@ -72,7 +72,6 @@ def encrypt(message):
             # 1 space indicates different characters
             # and 2 indicates different words
             cipher += " "
-
     return cipher
 
 # Function to decrypt the string
@@ -82,7 +81,6 @@ def decrypt(message):
     # extra space added at the end to access the
     # last morse code
     message += " "
-
     decipher = ""
     citext = ""
     for letter in message:
@@ -112,7 +110,6 @@ def decrypt(message):
                 decipher += list(MORSE_CODE_DICT.keys())[list(MORSE_CODE_DICT
                 .values()).index(citext)]
                 citext = ""
-
     return decipher
 
 # Hard-coded driver function to run the program
