@@ -93,5 +93,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 66| Z-test Calculator    | Calculates Z-statistic Value for the given set of Numerical Data and Population Mean | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/zcal/scripts/Z-test%20Calculator) |
 67| Music Visualizer    | Creates a visualization of any music file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/janinirami/scripts/Music-Visualizer) |
 68| Mood Sentiment Analyzer| Evaluate given texts/sentences general mood. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Mood%20Sentiment%20Analyzer)
+69| PC Waker| Stop your computer from going to sleep mode  | [Find me Here](https://github.com/Sattik-Tarafder/General-Purpose-Scripts/tree/main/scripts/PC_WAKER) |
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
