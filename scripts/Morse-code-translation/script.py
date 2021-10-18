@@ -59,72 +59,72 @@ MORSE_CODE_DICT = {
 # Function to encrypt the string
 # according to the morse code chart
 def encrypt(message):
-	cipher = ""
-	for letter in message:
-		if letter != " ":
+    cipher = ""
+    for letter in message:
+        if letter != " ":
 
-			# Looks up the dictionary and adds the
-			# correspponding morse code
-			# along with a space to separate
-			# morse codes for different characters
-			cipher += MORSE_CODE_DICT[letter] + " "
-		else:
-			# 1 space indicates different characters
-			# and 2 indicates different words
-			cipher += " "
+            # Looks up the dictionary and adds the
+            # correspponding morse code
+            # along with a space to separate
+            # morse codes for different characters
+            cipher += MORSE_CODE_DICT[letter] + " "
+        else:
+            # 1 space indicates different characters
+            # and 2 indicates different words
+            cipher += " "
 
-	return cipher
+    return cipher
 
 # Function to decrypt the string
 # from morse to english
 def decrypt(message):
 
-	# extra space added at the end to access the
-	# last morse code
-	message += " "
+    # extra space added at the end to access the
+    # last morse code
+    message += " "
 
-	decipher = ""
-	citext = ""
-	for letter in message:
+    decipher = ""
+    citext = ""
+    for letter in message:
 
-		# checks for space
-		if (letter != " "):
+        # checks for space
+        if (letter != " "):
 
-			# counter to keep track of space
-			i = 0
+            # counter to keep track of space
+            i = 0
 
-			# storing morse code of a single character
-			citext += letter
+            # storing morse code of a single character
+            citext += letter
 
-		# in case of space
-		else:
-			# if i = 1 that indicates a new character
-			i += 1
+        # in case of space
+        else:
+            # if i = 1 that indicates a new character
+            i += 1
 
-			# if i = 2 that indicates a new word
-			if i == 2 :
+            # if i = 2 that indicates a new word
+            if i == 2 :
 
-				# adding space to separate words
-				decipher += " "
-			else:
+                # adding space to separate words
+                decipher += " "
+            else:
 
-				# accessing the keys using their values (reverse of encryption)
-				decipher += list(MORSE_CODE_DICT.keys())[list(MORSE_CODE_DICT
-				.values()).index(citext)]
-				citext = ""
+                # accessing the keys using their values (reverse of encryption)
+                decipher += list(MORSE_CODE_DICT.keys())[list(MORSE_CODE_DICT
+                .values()).index(citext)]
+                citext = ""
 
-	return decipher
+    return decipher
 
 # Hard-coded driver function to run the program
 def main():
-	message = input("Enter a text to convert it into Morse Code :")
-	result = encrypt(message.upper())
-	print ("Resultant morse code :"+result)
+    message = input("Enter a text to convert it into Morse Code :")
+    result = encrypt(message.upper())
+    print ("Resultant morse code :"+result)
 
-	message = input("Enter a Morse Code :")
-	result = decrypt(message)
-	print (result)
+    message = input("Enter a Morse Code :")
+    result = decrypt(message)
+    print (result)
 
 # Executes the main function
 if __name__ == "__main__":
-	main()
+    main()
