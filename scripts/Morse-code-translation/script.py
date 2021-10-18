@@ -119,7 +119,7 @@ def decrypt(message):
 def main():
     message = input("Enter a text to convert it into Morse Code :")
     result = encrypt(message.upper())
-    print("Resultant morse code :"+result)
+    print("Resultant morse code :" + result)
 
     message = input("Enter a Morse Code :")
     result = decrypt(message)
