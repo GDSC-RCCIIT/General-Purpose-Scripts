@@ -54,7 +54,6 @@ MORSE_CODE_DICT = {
     "-": "-....-",
     "(": "-.--.",
     ")": "-.--.-",
-
 }
 
 # Function to encrypt the string
@@ -129,4 +128,3 @@ def main():
 # Executes the main function
 if __name__ == "__main__":
 	main()
-
