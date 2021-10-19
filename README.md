@@ -17,7 +17,7 @@ You can open an issue with us for a bug, feature or a new script or start workin
 
 ## Things to keep in mind when contributing
 
-If you are adding a script to the respository, please create a seperate directory with the name of the script inside the `scripts` directory of this repository and work within it. Make sure your script comes with its very own `README.md` with proper documentation for the end user, if possible add screenshots of your script working in the `README.md` as well. In case you are uploading screenshots and/or other relevant images please create a seperate `images` folder inside your script folder, this is where you will be keeping your images. Alternatively, you can also upload your images on platforms like [imgur](https://imgur.com/) and use the resulting link in your `README.md` file.
+If you are adding a script to the repository, please create a separate directory with the name of the script inside the `scripts` directory of this repository and work within it. Make sure your script comes with its very own `README.md` with proper documentation for the end user, if possible add screenshots of your script working in the `README.md` as well. In case you are uploading screenshots and/or other relevant images please create a separate `images` folder inside your script folder, this is where you will be keeping your images. Alternatively, you can also upload your images on platforms like [imgur](https://imgur.com/) and use the resulting link in your `README.md` file.
 
 Once you are done working on your script edit this `README.md` file and add the relevant information regarding your script in the table below.
 
@@ -56,7 +56,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 29| Reddit Image Scrapper | Downloads Reddit Images according to given SubReddit without using API | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Reddit-Image-Scrapper) |
 30| SMS Sender | Easy CLI interface for users looking to test their SMS campaign integration with Kaleyra | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS%20Sender) |
 31| Shorty | Shorty uses python code to shorten URLs on the go | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Shorty) |
-32| Sketch image converter | script which convert a colored photo into sketch photo | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_converter) |
+32| Image to Sketch Converter | Script which converts a colored photo into pencil sketch or cartoonized sketch | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_to_sketch_converter) |
 33| Song-Lyrics-Fetcher | Fetch lyrics of a song and store in a text file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Song-Lyrics-Fetcher) |
 34| Spectrogram | script to visualize wav files using spectrogram | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/spectrogram) |
 35| Terminal Video Editor | Edit Small Videos (less than : 10 mins) directly from your Terminal | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Terminal-Video-Editor) |
@@ -93,5 +93,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 66| Z-test Calculator    | Calculates Z-statistic Value for the given set of Numerical Data and Population Mean | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/zcal/scripts/Z-test%20Calculator) |
 67| Music Visualizer    | Creates a visualization of any music file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/janinirami/scripts/Music-Visualizer) |
 68| Mood Sentiment Analyzer| Evaluate given texts/sentences general mood. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Mood%20Sentiment%20Analyzer)
-
+69| Morse Code Translation    | Convert morse code to english language and vice versa | [Find me here](https://github.com/mahalrupi/General-Purpose-Scripts/tree/main/scripts/Morse-code-translation)
+70| Plagiarism Checker| Find similarity/plagiarism score between 2 texts | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Plagiarism-Checker)
 ### Good Luck and don't forget to have fun with Open Source 🚀
