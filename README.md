@@ -56,7 +56,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 29| Reddit Image Scrapper | Downloads Reddit Images according to given SubReddit without using API | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Reddit-Image-Scrapper) |
 30| SMS Sender | Easy CLI interface for users looking to test their SMS campaign integration with Kaleyra | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/SMS%20Sender) |
 31| Shorty | Shorty uses python code to shorten URLs on the go | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Shorty) |
-32| Sketch image converter | script which convert a colored photo into sketch photo | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_converter) |
+32| Image to Sketch Converter | Script which converts a colored photo into pencil sketch or cartoonized sketch | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_to_sketch_converter) |
 33| Song-Lyrics-Fetcher | Fetch lyrics of a song and store in a text file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Song-Lyrics-Fetcher) |
 34| Spectrogram | script to visualize wav files using spectrogram | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/spectrogram) |
 35| Terminal Video Editor | Edit Small Videos (less than : 10 mins) directly from your Terminal | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Terminal-Video-Editor) |
