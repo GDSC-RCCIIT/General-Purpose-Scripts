@@ -39,4 +39,3 @@ if __name__ == "__main__":
         if inp == "exit":
             print("bye bye :) ")
             break
-
