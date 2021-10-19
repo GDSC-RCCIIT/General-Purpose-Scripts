@@ -8,7 +8,12 @@
 
 A Python3 script to convert an image to pencil sketch or cartoonized sketch.
 
-### Examples
+
+## Examples
+
+![original](https://user-images.githubusercontent.com/50899339/137907376-cf94199f-a588-477e-9c55-ae69014c6a63.jpg)
+![pencil](https://user-images.githubusercontent.com/50899339/137907383-7eed4b12-0941-4aa9-9cf2-1f498e21e310.jpg)
+![cartoon](https://user-images.githubusercontent.com/50899339/137907390-937f6357-31f8-41a2-9a80-f841ca4b9aea.jpg)
 
 
 ### Setup
