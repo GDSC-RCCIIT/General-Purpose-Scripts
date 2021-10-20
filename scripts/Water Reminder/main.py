@@ -8,6 +8,7 @@ import os
 
 from dotenv import load_dotenv
 
+#A script which keeps the bot alive 24/7 
 from keep_alive import keep_alive
 
 load_dotenv()
@@ -21,7 +22,7 @@ client = commands.Bot(command_prefix="w.")
 @client.event
 
 async def on_ready():
-
+  #Changes the game activity of the bot 
   await client.change_presence(status=discord.Status.idle, activity=discord.Game('w.waterhelp'))
 
   print("Bot is online")
@@ -61,11 +62,11 @@ async def on_command_error(ctx, error):
     await ctx.send("<:dum:888023879979761664> You can use this command in <#874538486873620481> channel only")
 
 @client.command()
-
+#The cooldown is same for the entire server, not only for one user
 @commands.cooldown(1,7200, commands.BucketType.guild)
 
 async def water(ctx):
-
+  #Checks whether the command is used in water ping channel or not
   if ctx.channel.id == 874538486873620481:
 
     embed = discord.Embed(title = "Water Ping",description = '''Drink your way to better health.\nStay hydrated!''',colour = discord.Colour.blue())
