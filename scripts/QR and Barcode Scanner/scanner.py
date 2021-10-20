@@ -3,7 +3,7 @@ import pyzbar.pyzbar as pyzbar
 import numpy as np
 import cv2
 
-### Image Path Or Image Name if in Same Directory or Replace the png file with your image
+# Image Path Or Image Name if in Same Directory or Replace the png file with your image
 
 img_path="frame.png"
 
