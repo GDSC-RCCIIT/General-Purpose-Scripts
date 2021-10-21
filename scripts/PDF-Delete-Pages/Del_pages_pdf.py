@@ -5,10 +5,10 @@ user_path = input("\nEnter the relative/full path of the pdf: ").strip()
 path = os.path.normpath(user_path)
 pages_del = input("Enter the pages to be deleted separated by a comma: ")
 
-pages_to_delete = pages_del.strip().split(',')
-pages_to_delete = [(int(i)-1) for i in pages_to_delete]
+pages_to_delete = pages_del.strip().split(",")
+pages_to_delete = [(int(i) - 1) for i in pages_to_delete]
 
-with open(path,'rb') as pdf_file:
+with open(path, "rb") as pdf_file:
     pdf_reader = PdfFileReader(pdf_file)
     num_pages = pdf_reader.numPages
 
@@ -17,9 +17,9 @@ for num in pages_to_delete:
     if num > num_pages:
         out_of_index_page.append(num)
 
-if len(out_of_index_page)==0:
+if len(out_of_index_page) == 0:
 
-    infile = PdfFileReader(path, 'rb')
+    infile = PdfFileReader(path, "rb")
     output = PdfFileWriter()
 
     for i in range(infile.getNumPages()):
@@ -31,7 +31,7 @@ if len(out_of_index_page)==0:
 
     output_name = inputfile_name + "_deleted.pdf"
 
-    with open(output_name, 'wb') as f:
+    with open(output_name, "wb") as f:
         output.write(f)
 
     print(f"\nThe output pdf is saved as: {output_name}\n")
