@@ -10,6 +10,6 @@ if __name__ == "__main__":
             title="Time to drink water!",
             message="It's time to hydrate your body again",
             app_icon="icon.ico",
-            timeout=10
+            timeout=10,
         )
-        time.sleep(120*60)
+        time.sleep(120 * 60)
