@@ -1,17 +1,44 @@
-# Water Reminder Discord Bot
+## Water Reminder
 
-It is a discord bot which keeps the users hydrated by pinging them to drink water every 2 hours
+### About
 
-The bot send wholesome gifs/image while pinging the users to drink water 
+A python script which reminds you to drink water every 2 hours
 
-### Preview 
+<hr>
 
-![image](https://camo.githubusercontent.com/acf0fdec56abedcf7a51a92c44b14fa40ef82003e1a8c8662c14567557ac3765/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839313138323736343534363732333837302f3839313538343230333238323537393436362f756e6b6e6f776e2e706e67)
+### Modules used
 
-![image](https://camo.githubusercontent.com/2796eb35bec69a4abee1cdbbfb228a2b4cfac50e4c6e92b87b24507daa1d4046/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839313138323736343534363732333837302f3839313538343831313836373732313733382f756e6b6e6f776e2e706e673f77696474683d353537266865696768743d343036)
+- [Time](https://docs.python.org/3/library/time.html)
 
-### Requirements
+- [Plyer](https://pypi.org/project/plyer/)
 
-discord==1.7.3
+<hr>
 
-python-dotenv
+### Preview
+
+![image](https://user-images.githubusercontent.com/90365542/138238115-81aecab3-f396-4648-a56c-cd0c1f86f326.png)
+
+<hr>
+
+### Setup
+
+- Install Python3 from [here](https://www.python.org/)
+- Open Windows Command Prompt.
+- Clone the repository
+
+```bash
+git clone https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git
+```
+
+- Navigate inside the `scripts/Water-Reminder` directory.
+- Run this command
+
+```bash
+pip install -r requirements.txt
+```
+
+- Run this command
+
+```bash
+python main.py
+```
