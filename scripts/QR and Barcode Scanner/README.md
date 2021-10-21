@@ -1,13 +1,12 @@
 ## How to run
+
 1. Clone the repository
    ```
    git clone git@github.com:GDSC-RCCIIT/General-Purpose-Scripts.git
    ```
 2. Install the script requirements
    ```
-   pip install pyzbar
-   pip install numpy
-   pip install opencv-python
+   pip install -r requirements.txt
    ```
 3. Navigate to `QR and Barcode Scanner` directory
    ```
@@ -20,4 +19,3 @@
    ```
    python scanner.py
    ```
-   
