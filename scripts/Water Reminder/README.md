@@ -30,7 +30,7 @@ A python script which reminds you to drink water every 2 hours
 git clone https://github.com/GDSC-RCCIIT/General-Purpose-Scripts.git
 ```
 
-- Navigate inside the `scripts/Water-Reminder` directory.
+- Navigate inside the `scripts/Water Reminder` directory.
 - Run this command
 
 ```bash
