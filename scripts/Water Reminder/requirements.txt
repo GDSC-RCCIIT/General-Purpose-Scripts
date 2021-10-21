@@ -1,2 +1,1 @@
-discord==1.7.3
-python-dotenv
+plyer==2.0.0
