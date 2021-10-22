@@ -95,5 +95,6 @@ Once you are done working on your script edit this `README.md` file and add the 
 68| Mood Sentiment Analyzer| Evaluate given texts/sentences general mood. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Mood%20Sentiment%20Analyzer)
 69| Morse Code Translation    | Convert morse code to english language and vice versa | [Find me here](https://github.com/mahalrupi/General-Purpose-Scripts/tree/main/scripts/Morse-code-translation)
 70| Plagiarism Checker| Find similarity/plagiarism score between 2 texts | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Plagiarism-Checker)
-71 | Water Reminder | Reminds you to drink water every 2 hours | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Water%20Reminder)
+71| Water Reminder | Reminds you to drink water every 2 hours | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Water%20Reminder)
+72| QR and Barcode Scanner | Scans both QR Codes and Barcodes | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR%20and%20Barcode%20Scanner)   |
 ### Good Luck and don't forget to have fun with Open Source 🚀
