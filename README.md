@@ -98,4 +98,5 @@ Once you are done working on your script edit this `README.md` file and add the 
 71| Water Reminder | Reminds you to drink water every 2 hours | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Water%20Reminder)
 72| QR and Barcode Scanner | Scans both QR Codes and Barcodes | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR%20and%20Barcode%20Scanner)   |
 73| PDF-Delete-Pages | Deletes pages from PDF as entered by the user | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PDF-Delete-Pages)   |
+74| Copy to clipboard | Copies contents form a text file to your clipboard | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Copy%20to%20clipboard)   |
 ### Good Luck and don't forget to have fun with Open Source 🚀
