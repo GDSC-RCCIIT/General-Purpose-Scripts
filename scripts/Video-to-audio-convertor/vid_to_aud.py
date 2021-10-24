@@ -2,7 +2,10 @@ import moviepy.editor
 from moviepy.video.VideoClip import VideoClip
 from pathlib import Path
 
-a = input("Enter the path of the video:\n")
+# To take path of the video as input
+
+a = input("Enter the path of the video:\n")     # Enter path of the video in the terminal.
+
 video = moviepy.editor.VideoFileClip(a)
 p = Path(a)
 if p.exists():
