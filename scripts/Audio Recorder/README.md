@@ -11,10 +11,7 @@
    ```
    cd General-Purpose-Scripts/scripts/Audio Recorder
    ```
-4. Replace "frame.png" with the image path of the QR/Barcode or, with the name of the png file if it is in the same directory as the script.
-   ### Note
-   The png file can also be placed in the same directory as the script and renamed to "frame.png" to avoid making changes to the code.
-5. Run the script to scan the QR/Barcode
+4. Run the script to record audio
    ```
-   python scanner.py
+   python audio.py
    ```
