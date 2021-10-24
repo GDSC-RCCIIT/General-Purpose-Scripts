@@ -86,6 +86,19 @@ Once you are done working on your script edit this `README.md` file and add the 
 59| Voice-to-text Converter | Transcribes speech from inputted audio file using PocketSphinx. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/voice_to_text) |
 60| Steganography | Text Encryption and Decryption to and from an Image | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/steganography) |
 61| Instagram Photo Downloader    | Downloads photos from Instagram. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Instagram%20Photo%20Downloader) |
-62| Video-to-audio Convertor    | Extracts audios from videos. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Video-to-audio-convertor) |
+62| PDF2text | Extracts text from a pdf file and display it to the user. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PDF2text/) |
+63| Image to PDF converter| Converts all the images which is inside a dir to a PDF file | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/image_to_pdf) |
+64| PDF to Docx Converter    | Converts PDF file to Docx | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PDF%20to%20Docx%20Converter) |
+65| Threaded Port Scanner    | Tool for scanning open ports on a host | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Threaded-Port-Scanner) |
+66| Z-test Calculator    | Calculates Z-statistic Value for the given set of Numerical Data and Population Mean | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/zcal/scripts/Z-test%20Calculator) |
+67| Music Visualizer    | Creates a visualization of any music file | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/janinirami/scripts/Music-Visualizer) |
+68| Mood Sentiment Analyzer| Evaluate given texts/sentences general mood. | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Mood%20Sentiment%20Analyzer)
+69| Morse Code Translation    | Convert morse code to english language and vice versa | [Find me here](https://github.com/mahalrupi/General-Purpose-Scripts/tree/main/scripts/Morse-code-translation)
+70| Plagiarism Checker| Find similarity/plagiarism score between 2 texts | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Plagiarism-Checker)
+71| Water Reminder | Reminds you to drink water every 2 hours | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Water%20Reminder)
+72| QR and Barcode Scanner | Scans both QR Codes and Barcodes | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR%20and%20Barcode%20Scanner)   |
+73| PDF-Delete-Pages | Deletes pages from PDF as entered by the user | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PDF-Delete-Pages)   |
+74| Copy to clipboard | Copies contents form a text file to your clipboard | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Copy%20to%20clipboard)   |
+75| Video-to-audio Convertor    | Extracts audios from videos. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Video-to-audio-convertor) |
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
