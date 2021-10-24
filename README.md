@@ -99,5 +99,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 72| QR and Barcode Scanner | Scans both QR Codes and Barcodes | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/QR%20and%20Barcode%20Scanner)   |
 73| PDF-Delete-Pages | Deletes pages from PDF as entered by the user | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/PDF-Delete-Pages)   |
 74| Copy to clipboard | Copies contents form a text file to your clipboard | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Copy%20to%20clipboard)   |
-75| Audio Recorder | Records audio from system's audio input device for `n` seconds | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Audio%20Recorder)   |
+75| Video-to-audio Convertor    | Extracts audios from videos. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Video-to-audio-convertor) |
+76| Audio Recorder | Records audio from system's audio input device for `n` seconds | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Audio%20Recorder)   |
+
 ### Good Luck and don't forget to have fun with Open Source 🚀
