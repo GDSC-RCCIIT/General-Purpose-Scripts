@@ -16,4 +16,4 @@
    python script.py <word>
    ```
 ### Note
-Replace <word> with the word you wish to spell.
+Replace `<word>` with the word you wish to spell.
