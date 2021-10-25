@@ -4,6 +4,8 @@
 2. Change your working directory to the directory of this script using: `cd General-Purpose-Scripts/scripts/Text-to-audio-convertor`.
 3. Install the dependencies using `pip install -r requirements.txt`.
 4. Run the txt_to_aud.py file in terminal with `python3 txt_to_aud.py`.
-5. Enter the text that you want the computer to speak in terminal and press Enter.
-6. The computer will speak the text you entered, just like an AI!
+5. Select the way in which you want to give the input text i.e. by typing or by extracting text from a .txt file.
+6. If you want to extracr text from a txt file, you need to save the text file in the same directory as `test.txt`. 
+7. The computer will speak the text you entered, just like an AI!
+8. Also, the converted audio will be saved in the same directory as `voice.mp3`.
 
