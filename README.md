@@ -101,5 +101,5 @@ Once you are done working on your script edit this `README.md` file and add the 
 74| Copy to clipboard | Copies contents form a text file to your clipboard | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Copy%20to%20clipboard)   |
 75| Video-to-audio Convertor    | Extracts audios from videos. | [Find me here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Video-to-audio-convertor) |
 76| Audio Recorder | Records audio from system's audio input device for `n` seconds | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/Audio%20Recorder)   |
-
+77| NATO Phonetic Alphabet | Spells entered word using NATO phonetic alphabets | [Find me Here](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/tree/main/scripts/NATO%20Phonetic%20Alphabet)   |
 ### Good Luck and don't forget to have fun with Open Source 🚀
