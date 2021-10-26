@@ -27,7 +27,7 @@ if resp == 1:
     if filteredtext.isalpha():
         myobj = gTTS(text=mytext, lang=language, slow=False)
     else:
-        myobj = gTTS("Please Enter correct value", lang=language, slow=False)
+        myobj = gTTS("Please enter a file with valid text", lang=language, slow=False)
 
     # Saving the converted audio in a mp3 file named convertedaud
 
