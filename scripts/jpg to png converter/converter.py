@@ -11,5 +11,4 @@ def converter():
     im1.save(f'D:\crush\png\{fileSequence}.png') #Location of folder to save png files
     fileSequence += 1
 
-if __name__ == "__main__":
     converter()
