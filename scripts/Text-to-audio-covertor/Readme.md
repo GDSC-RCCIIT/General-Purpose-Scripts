@@ -5,7 +5,6 @@
 3. Install the dependencies using `pip install -r requirements.txt`.
 4. Run the txt_to_aud.py file in terminal with `python3 txt_to_aud.py`.
 5. Select the way in which you want to give the input text i.e. by typing or by extracting text from a .txt file.
-6. If you want to extracr text from a txt file, you need to save the text file in the same directory as `test.txt`. 
-7. The computer will speak the text you entered, just like an AI!
+7. The computer will speak the input text, just like an AI!
 8. Also, the converted audio will be saved in the same directory as `voice.mp3`.
 
