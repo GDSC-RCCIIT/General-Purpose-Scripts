@@ -10,4 +10,6 @@ pip install -r requirements.txt
 Just Put the image files inside `D:\\crush\\` directory, then run the script using `python converter.py`, it will create a pdf file in the same directory.
 Or you can edit the `converter.py` file and replace the directory path `D:\\crush\\` in the line with the comment `#Location of the folder with jpg files` with the location of your JPG files.
 
+Your converted files will be saved to `D:\\crush\\png` by default but you can change it as per the instructions above.
+
 ## Enjoy converting your images !!!
