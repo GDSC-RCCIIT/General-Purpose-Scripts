@@ -2,8 +2,8 @@
 import PyPDF2
 import os
 
-file="C:\\Users\\DELL\\OneDrive\\Desktop\\PDSC Workshop\\day2\\2img2pdf\\img2pdf.pdf"
-pdf_in_file = open(file,'rb') #Location of the PDF File
+file="C:\\Users\\DELL\\OneDrive\\Desktop\\PDSC Workshop\\day2\\2img2pdf\\img2pdf.pdf" #Location of the PDF File
+pdf_in_file = open(file,'rb')
 inputpdf = PyPDF2.PdfFileReader(pdf_in_file)
 pages_no = inputpdf.numPages
 output = PyPDF2.PdfFileWriter()
