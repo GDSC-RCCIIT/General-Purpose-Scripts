@@ -26,6 +26,7 @@ print("Press 'Y' if you want to delete unprotected file or 'N' if you want to ke
 choice=input("Do you want to delete previous unprotected file?")
 if choice=="Y" or choice=="y":
     os.remove(file)
+    print("File Deleted Successfully !!")
 elif choice=="N" or choice=="n":
     pass
 else:
