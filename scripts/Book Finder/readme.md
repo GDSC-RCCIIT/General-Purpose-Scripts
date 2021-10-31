@@ -3,7 +3,9 @@
 ![License](https://img.shields.io/github/license/GDSC-RCCIIT/General-Purpose-Scripts?color=blue&style=plasitc)
 
 ## How to run
+
 <br>
+
 1. Clone the repository
    ```bash
    git clone git@github.com:GDSC-RCCIIT/General-Purpose-Scripts.git
