@@ -1,12 +1,16 @@
 # Created by @nipunarora8
-
-from tkinter import *
-from PIL import ImageTk, Image
-import cv2
-import mediapipe as mp
-import imageio
-import numpy as np
-
+try:
+    from tkinter import *
+    from PIL import ImageTk, Image
+    import cv2
+    import mediapipe as mp
+    import imageio
+    import numpy as np
+    
+except ModuleNotFoundError:
+    import os
+    os.system('pip install -r requirement.txt')
+    
 mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 from mediapipe.python.solutions.pose import PoseLandmark
