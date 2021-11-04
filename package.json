@@ -1,0 +1,17 @@
+{
+	"AI_Workout_Tracer":
+	{
+		"Install":"https://github.com/ujjwalkar0/General-Purpose-Scripts/raw/main/scripts/AI%20Workout%20Tracker/home.py",
+		"Description":"AI Workout Tracer",
+		"Requiement":"git.com"
+
+	},
+
+	"AudioBook":{
+		"Install":"https://raw.githubusercontent.com/ujjwalkar0/General-Purpose-Scripts/main/scripts/AudioBook/AudioBook.py",
+		"Description":"Des",
+		"Requirement":"git.txt"
+	}
+}
+	
+
