@@ -1,16 +1,17 @@
 {
 	"AI_Workout_Tracer":
 	{
-		"Install":"https://github.com/ujjwalkar0/General-Purpose-Scripts/raw/main/scripts/AI%20Workout%20Tracker/home.py",
+		"Application":"AI%20Workout%20Tracker",
 		"Description":"AI Workout Tracer",
-		"Requiement":"git.com"
-
+		"Requiement":"https://raw.githubusercontent.com/ujjwalkar0/General-Purpose-Scripts/main/scripts/AI%20Workout%20Tracker/requirements.txt",
+		"Execute":"home.py"
 	},
 
 	"AudioBook":{
-		"Install":"https://raw.githubusercontent.com/ujjwalkar0/General-Purpose-Scripts/main/scripts/AudioBook/AudioBook.py",
-		"Description":"Des",
-		"Requirement":"git.txt"
+		"Application":"AudioBook",
+		"Description":"AudioBook",
+		"Requirement":"https://raw.githubusercontent.com/ujjwalkar0/General-Purpose-Scripts/main/scripts/AudioBook/requirements.txt",
+		"Execute":"AudioBook.py"
 	}
 }
 	
