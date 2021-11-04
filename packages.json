@@ -1,18 +1,4 @@
 {
-	"AI_Workout_Tracer":
-	{
-		"Application":"AI%20Workout%20Tracker",
-		"Description":"AI Workout Tracer",
-		"Requiement":"https://raw.githubusercontent.com/ujjwalkar0/General-Purpose-Scripts/main/scripts/AI%20Workout%20Tracker/requirements.txt",
-		"Execute":"home.py"
-	},
-
-	"AudioBook":{
-		"Application":"AudioBook",
-		"Description":"AudioBook",
-		"Requirement":"https://raw.githubusercontent.com/ujjwalkar0/General-Purpose-Scripts/main/scripts/AudioBook/requirements.txt",
-		"Execute":"AudioBook.py"
-	}
+	"AI_Workout_Tracker":"home.py",
+	"AudioBook":"AudioBook.py"
 }
-	
-
