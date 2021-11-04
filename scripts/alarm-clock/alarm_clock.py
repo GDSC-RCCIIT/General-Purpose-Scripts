@@ -4,10 +4,13 @@ from datetime import datetime
 from plyer import notification
 from playsound import playsound
 
+import os
+base_dir = os.path.dirname(os.path.realpath(__file__))
+
 # import pyobjus
 
 msg = "Wake Up!"  # your default remainder/alarm message
-audio_path = "./alarm-songs/ncs_high.mp3"  # your default remainder/alarm audio
+audio_path = f"{base_dir}/alarm-songs/ncs_high.mp3"  # your default remainder/alarm audio
 
 
 def show_notification(title_msg, message):

@@ -5,6 +5,9 @@ import time
 import pandas as pd
 import requests
 
+import os
+base_dir = os.path.dirname(os.path.realpath(__file__))
+
 c = 0
 # some coin names to be scraped.
 CoinsNames = ["Bitcoin-USD", "Ethereum-USD", "HEX-USD", "Cardano-USD", "Tether-USD"]
@@ -31,7 +34,7 @@ while True:
     headings_list.insert(0, "Date & Time")
 
     # path for the csv files, which needs to be changed as per the user.
-    path = "D:\hacktoberfest\General-Purpose-Scripts\scripts\CryptoCurrencyTracker\CoinsData"
+    path = f"{base_dir}/CoinsData"
     datum = {}
     if c == 0:
         datum = {}
