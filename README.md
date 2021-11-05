@@ -11,7 +11,11 @@ This repository holds a curated list of Python scripts which aim to help us auto
 
 ## Install any script using gpscript command
 
-First of all install gpscript (Only for linux currently)
+First of all install gpscript. Write following command(s)
+```
+pip install gpscript
+```
+or,
 ```
 git clone https://github.com/ujjwalkar0/gpscript
 
@@ -30,6 +34,18 @@ Install a script
 gpscript install <package_name>
 ```
 
+List all installed packages...
+```
+gpscript installed
+```
+Remove a package...
+```
+gpscript remove <package_name>
+```
+Update a package...
+```
+gpscript update <package_name>
+```
 
 ## How to contribute
 
