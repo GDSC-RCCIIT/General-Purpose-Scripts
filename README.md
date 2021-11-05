@@ -47,6 +47,37 @@ Update a package...
 gpscript update <package_name>
 ```
 
+## Developer Guidelines
+Path of installation script is `<path_of_virtualenv>/applications/<your_script_folder>`. applications folder will create automatically in virtualenv when a script will install
+
+Before installation any script..
+
+![image](https://user-images.githubusercontent.com/55041104/140525324-19765c22-a75f-4777-a618-d0cbf55b8e68.png)
+
+
+Let we Install `LinkedIn-Job-Scraper`
+
+![image](https://user-images.githubusercontent.com/55041104/140558125-d96e36b8-192d-468f-ae99-6133fcc214c4.png)
+ 
+
+![image](https://user-images.githubusercontent.com/55041104/140558534-cd1715ba-01f3-41fc-ae08-8ee1a2e34742.png)
+
+So, set the path uses location that way...
+
+```python
+import os
+base_dir = os.path.dirname(os.path.realpath(__file__))
+```
+
+Set path of script relative to base_dir
+
+For example,
+
+![image](https://user-images.githubusercontent.com/55041104/140559355-7dc8bc41-8316-4223-a78d-6804f439850f.png)
+
+![image](https://user-images.githubusercontent.com/55041104/140559465-42a80f03-196a-47dd-b121-870670f91f2c.png)
+
+
 ## How to contribute
 
 Our repository accepts all kinds of contributions. Before making a contribution please make sure you have gone through our [contributing guidelines](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/blob/main/.github/CONTRIBUTING.md).
