@@ -9,6 +9,28 @@
 
 This repository holds a curated list of Python scripts which aim to help us automate daily and common tasks. You can pick up any of these scripts on demand to help you with the automation of your common routine tasks. All the scripts in this repository can be found under the `scripts` directory and have been contributed by our generous contributors.
 
+## Install any script using gpscript command
+
+First of all install gpscript
+```
+git clone https://github.com/ujjwalkar0/gpscript
+
+cd gpscript
+
+python setup.py install
+
+```
+List of all script (Only those packages are in packages.json will shown here.)
+
+```
+gpscript list
+```
+Install a script
+```
+gpscript install <package_name>
+```
+
+
 ## How to contribute
 
 Our repository accepts all kinds of contributions. Before making a contribution please make sure you have gone through our [contributing guidelines](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/blob/main/.github/CONTRIBUTING.md).
