@@ -10,7 +10,7 @@
 
 ---
 
-- Just run the exe file it will feth data in JSON format from the website.
+- Just run the exe file it will fetch data in JSON format from the website.
 - Also you can manually run .py file using `python news_reader.py` in the project folder
 
 ---
