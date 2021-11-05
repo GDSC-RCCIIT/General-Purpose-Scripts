@@ -11,7 +11,7 @@ This repository holds a curated list of Python scripts which aim to help us auto
 
 ## Install any script using gpscript command
 
-First of all install gpscript
+First of all install gpscript (Only for linux currently)
 ```
 git clone https://github.com/ujjwalkar0/gpscript
 
