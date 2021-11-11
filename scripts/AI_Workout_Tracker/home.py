@@ -5,19 +5,21 @@ import cv2
 import mediapipe as mp
 import imageio
 import numpy as np
-    
+
 mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 from mediapipe.python.solutions.pose import PoseLandmark
 from exercise import workout
 
 import os
+
 base_dir = os.path.dirname(os.path.realpath(__file__))
 
 root = Tk()
 root.attributes("-fullscreen", True)
 root.geometry(f"{root.winfo_screenwidth()}x{root.winfo_screenheight()}")
 root["bg"] = "black"
+
 
 def opencameraWindow():
     lst = []
