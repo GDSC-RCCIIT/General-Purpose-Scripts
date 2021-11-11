@@ -10,7 +10,6 @@
 	"Check-System-Usage":"system-usage.py",
 	"Copy_to_clipboard":"clipboard.py",
 	"Covid-Tracker":"coronacasestracker.py",
-	"CpTemplate":"temp.cpp",
 	"CryptoCurrency":"main.py",
 	"CryptoCurrencyTracker":"main.py",
 	"Currency-Converter":"main.py",
