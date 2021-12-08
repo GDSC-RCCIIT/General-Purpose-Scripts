@@ -9,6 +9,75 @@
 
 This repository holds a curated list of Python scripts which aim to help us automate daily and common tasks. You can pick up any of these scripts on demand to help you with the automation of your common routine tasks. All the scripts in this repository can be found under the `scripts` directory and have been contributed by our generous contributors.
 
+## Install any script using gpscript command
+
+First of all install gpscript. Write following command(s)
+```
+pip install gpscript
+```
+or,
+```
+git clone https://github.com/ujjwalkar0/gpscript
+
+cd gpscript
+
+python setup.py install
+
+```
+List of all script (Only those packages are in packages.json will shown here.)
+
+```
+gpscript list
+```
+Install a script
+```
+gpscript install <package_name>
+```
+
+List all installed packages...
+```
+gpscript installed
+```
+Remove a package...
+```
+gpscript remove <package_name>
+```
+Update a package...
+```
+gpscript update <package_name>
+```
+
+## Developer Guidelines
+Path of installation script is `<path_of_virtualenv>/applications/<your_script_folder>`. applications folder will create automatically in virtualenv when a script will install
+
+Before installation any script..
+
+![image](https://user-images.githubusercontent.com/55041104/140525324-19765c22-a75f-4777-a618-d0cbf55b8e68.png)
+
+
+Let we Install `LinkedIn-Job-Scraper`
+
+![image](https://user-images.githubusercontent.com/55041104/140558125-d96e36b8-192d-468f-ae99-6133fcc214c4.png)
+ 
+
+![image](https://user-images.githubusercontent.com/55041104/140558534-cd1715ba-01f3-41fc-ae08-8ee1a2e34742.png)
+
+So, set the path uses location that way...
+
+```python
+import os
+base_dir = os.path.dirname(os.path.realpath(__file__))
+```
+
+Set path of script relative to base_dir
+
+For example,
+
+![image](https://user-images.githubusercontent.com/55041104/140559355-7dc8bc41-8316-4223-a78d-6804f439850f.png)
+
+![image](https://user-images.githubusercontent.com/55041104/140559465-42a80f03-196a-47dd-b121-870670f91f2c.png)
+
+
 ## How to contribute
 
 Our repository accepts all kinds of contributions. Before making a contribution please make sure you have gone through our [contributing guidelines](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/blob/main/.github/CONTRIBUTING.md).
@@ -17,7 +86,9 @@ You can open an issue with us for a bug, feature or a new script or start workin
 
 ## Things to keep in mind when contributing
 
-If you are adding a script to the repository, please create a separate directory with the name of the script inside the `scripts` directory of this repository and work within it. Make sure your script comes with its very own `README.md` with proper documentation for the end user, if possible add screenshots of your script working in the `README.md` as well. In case you are uploading screenshots and/or other relevant images please create a separate `images` folder inside your script folder, this is where you will be keeping your images. Alternatively, you can also upload your images on platforms like [imgur](https://imgur.com/) and use the resulting link in your `README.md` file.
+
+If you are adding a script to the respository, please create a separate directory with the name of the script inside the `scripts` directory of this repository and work within it. Make sure your script comes with its very own `README.md` with proper documentation for the end user, if possible add screenshots of your script working in the `README.md` as well. In case you are uploading screenshots and/or other relevant images please create a separate `images` folder inside your script folder, this is where you will be keeping your images. Alternatively, you can also upload your images on platforms like [imgur](https://imgur.com/) and use the resulting link in your `README.md` file.
+
 
 Once you are done working on your script edit this `README.md` file and add the relevant information regarding your script in the table below.
 
