@@ -1,5 +1,4 @@
 # Created by @nipunarora8
-
 from tkinter import *
 from PIL import ImageTk, Image
 import cv2
@@ -11,6 +10,10 @@ mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 from mediapipe.python.solutions.pose import PoseLandmark
 from exercise import workout
+
+import os
+
+base_dir = os.path.dirname(os.path.realpath(__file__))
 
 root = Tk()
 root.attributes("-fullscreen", True)
@@ -78,7 +81,7 @@ def opencameraWindow():
     # sets the geometry of toplevel
     camera_window.geometry(f"{root.winfo_screenwidth()}x{root.winfo_screenheight()}")
 
-    cam_bg = PhotoImage(file="resources/camera_bg.png")
+    cam_bg = PhotoImage(file=f"{base_dir}/resources/camera_bg.png")
     bg_cam = Label(camera_window, image=cam_bg)
     bg_cam.place(x=0, y=0, relwidth=1, relheight=1)
 
@@ -91,7 +94,7 @@ def opencameraWindow():
         highlightbackground="white",
     )
     imgcanvas.place(x=40, y=140)
-    begin = PhotoImage(file="resources/begin.png")
+    begin = PhotoImage(file=f"{base_dir}/resources/begin.png")
     labell = Label(imgcanvas, image=begin)
     labell["bg"] = "black"
     labell["border"] = "0"
@@ -112,13 +115,13 @@ def opencameraWindow():
     labelr.place(x=110, y=220)
 
     # buttons
-    startt_btn = PhotoImage(file="resources/start_video.png")
+    startt_btn = PhotoImage(file=f"{base_dir}/resources/start_video.png")
     btn_startt = Button(camera_window, image=startt_btn, command=start_camera)
     btn_startt["bg"] = "#2A2D2C"
     btn_startt["border"] = "0"
     btn_startt.place(x=300, y=725)
 
-    stop_btn = PhotoImage(file="resources/stop_video.png")
+    stop_btn = PhotoImage(file=f"{base_dir}/resources/stop_video.png")
     btn_stop = Button(camera_window, image=stop_btn, command=stop_camera)
     btn_stop["bg"] = "#232525"
     btn_stop["border"] = "0"
@@ -127,12 +130,12 @@ def opencameraWindow():
     camera_window.bind("<Key-Escape>", quit)
 
 
-bg = PhotoImage(file="resources/main_screen.png")
+bg = PhotoImage(file=f"{base_dir}/resources/main_screen.png")
 
 bg_img = Label(root, image=bg)
 bg_img.place(x=0, y=0, relwidth=1, relheight=1)
 
-start_btn = PhotoImage(file="resources/Start Button.png")
+start_btn = PhotoImage(file=f"{base_dir}/resources/Start Button.png")
 btn_start = Button(root, text="clickme", image=start_btn, command=opencameraWindow)
 btn_start["bg"] = "#202020"
 btn_start["border"] = "0"
