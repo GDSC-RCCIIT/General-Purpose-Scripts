@@ -58,9 +58,9 @@ class App(QMainWindow):
             myobj = gTTS(text=txt, lang=language, slow=False)
         else:
             myobj = gTTS("Please Enter correct value", lang=language, slow=False)
-
-        myobj.save("welcome.mp3")
-        playsound("welcome.mp3")
+        audio_file = os.path.dirname(__file__) + "\\welcome.mp3"
+        myobj.save(audio_file)
+        playsound(audio_file)
 
 
 if __name__ == "__main__":
