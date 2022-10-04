@@ -2,6 +2,7 @@
 # to speech conversion
 
 import sys
+import os
 from gtts import gTTS
 from playsound import playsound
 from PyQt5.QtWidgets import (
@@ -59,8 +60,9 @@ class App(QMainWindow):
         else:
             myobj = gTTS("Please Enter correct value", lang=language, slow=False)
 
-        myobj.save("welcome.mp3")
-        playsound("welcome.mp3")
+        audio_file = os.path.dirname(__file__) + "\\welcome.mp3"
+        myobj.save(audio_file)
+        playsound(audio_file)
 
 
 if __name__ == "__main__":
